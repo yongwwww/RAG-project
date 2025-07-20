@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8999303579330444,
+        "coordinates": {
+            "points": [
+                [
+                    184.95013427734375,
+                    1299.2193603515625
+                ],
+                [
+                    184.95013427734375,
+                    1447.6170654296875
+                ],
+                [
+                    815.3705444335938,
+                    1447.6170654296875
+                ],
+                [
+                    815.3705444335938,
+                    1299.2193603515625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 10,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "cd5bbbb57e6da2c7cdd293c0d477d61f"
+    },
+    "page_content": "Minjie Ren, Xiangdong Huang, Wenhui Li, Dan Song, and Weizhi Nie. 2022. Lr-gen: Latent relation-aware graph convolutional network for conversational emo- tion recognition. [EEE Transactions on Multimedia, 24:4422-4432.",
+    "type": "Document"
+}

@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.7910358905792236,
+        "coordinates": {
+            "points": [
+                [
+                    957.6292114257812,
+                    1914.664794921875
+                ],
+                [
+                    957.6292114257812,
+                    1998.5804443359375
+                ],
+                [
+                    1460.014892578125,
+                    1998.5804443359375
+                ],
+                [
+                    1460.014892578125,
+                    1914.664794921875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Formula",
+        "element_id": "b6e25197e6b08e01fb44338e3d1f6bf0"
+    },
+    "page_content": "N he= S- aij (vj + SPagzem) (14) i=l",
+    "type": "Document"
+}

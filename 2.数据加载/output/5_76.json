@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9216534495353699,
+        "coordinates": {
+            "points": [
+                [
+                    194.31005859375,
+                    204.28199768066406
+                ],
+                [
+                    194.31005859375,
+                    308.1711730957031
+                ],
+                [
+                    810.0145263671875,
+                    308.1711730957031
+                ],
+                [
+                    810.0145263671875,
+                    204.28199768066406
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 5,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "b270c4ca852925ca143929bf4bfbf025"
+    },
+    "page_content": "into attention map to take the global context struc- ture into consideration. Moreover, it encodes the hidden features of value as shown in Eq. (14).",
+    "type": "Document"
+}

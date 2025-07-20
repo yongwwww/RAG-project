@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9178239107131958,
+        "coordinates": {
+            "points": [
+                [
+                    211.67105102539062,
+                    1114.667724609375
+                ],
+                [
+                    211.67105102539062,
+                    1261.5870361328125
+                ],
+                [
+                    1465.8870849609375,
+                    1261.5870361328125
+                ],
+                [
+                    1465.8870849609375,
+                    1114.667724609375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 12,
+        "parent_id": "e72b11a1e4b24f58f4489ab812cb9525",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "1c00670913add548f448305d7d4fe1dc"
+    },
+    "page_content": "D3. Did you discuss whether and how consent was obtained from people whose data you’re using/curating? For example, if you collected data via crowdsourcing, did your instructions to crowdworkers explain how the data would be used? No response.",
+    "type": "Document"
+}

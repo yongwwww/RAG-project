@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.6611209511756897,
+        "coordinates": {
+            "points": [
+                [
+                    341.8412780761719,
+                    732.3560791015625
+                ],
+                [
+                    341.8412780761719,
+                    775.6593017578125
+                ],
+                [
+                    811.3397827148438,
+                    775.6593017578125
+                ],
+                [
+                    811.3397827148438,
+                    732.3560791015625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Formula",
+        "element_id": "f63845794b96041fbeaa8aa003d6fc83"
+    },
+    "page_content": "a; = ReLU(W7H® + b) (7)",
+    "type": "Document"
+}

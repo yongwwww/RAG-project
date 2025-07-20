@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9434062242507935,
+        "coordinates": {
+            "points": [
+                [
+                    846.1796875,
+                    830.6202392578125
+                ],
+                [
+                    846.1796875,
+                    1418.015869140625
+                ],
+                [
+                    1465.24267578125,
+                    1418.015869140625
+                ],
+                [
+                    1465.24267578125,
+                    830.6202392578125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 6,
+        "parent_id": "89b2cbd1d6c34ffaa761e4253ade2c1c",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "fe2139c51713cd4f1b5125eb6e0da612"
+    },
+    "page_content": "In addition, we present classification accuracies and F1 scores for each emotion category and vi- sualize the confusion matrices of the testing set in Fig. 5. For the IEMOCAP (6-way) dataset, the improvements on classification performance can be seen for most emotion categories over existing approaches (Table 2). Specifically, we notice an improvement of Fl-score for happy, neutral, angry and excited emotions which show the improved ability of the model to identify relevant emotions. Meanwhile, we find neutral and anger emotions can be confused with the frustration emotion (Fig. 5 (a)) as the majority of the utterances are labeled as the frustration. Also, the happiness emotion can be confused with the excitement emotion (Fig. 5 (a)) due to our similar perception of these emotions.",
+    "type": "Document"
+}

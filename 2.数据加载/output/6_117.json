@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.5721232891082764,
+        "coordinates": {
+            "points": [
+                [
+                    844.8822631835938,
+                    2106.61962890625
+                ],
+                [
+                    844.8822631835938,
+                    2199.9365234375
+                ],
+                [
+                    1458.5797119140625,
+                    2199.9365234375
+                ],
+                [
+                    1458.5797119140625,
+                    2106.61962890625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 6,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "FigureCaption",
+        "element_id": "fcd8f5aaa60a56827368a0c920d36e7d"
+    },
+    "page_content": "Fig. 5. Visualization the confusion matrices: (a) on the IEMOCAP (6-way); (b) on the IEMOCAP (4-way).",
+    "type": "Document"
+}

@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "coordinates": {
+            "points": [
+                [
+                    381.4222222222222,
+                    2218.0403555555554
+                ],
+                [
+                    381.4222222222222,
+                    2242.947022222222
+                ],
+                [
+                    1272.1344355555555,
+                    2242.947022222222
+                ],
+                [
+                    1272.1344355555555,
+                    2218.0403555555554
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 1,
+        "parent_id": "20a04d29fbfc6986ba2ea103f2bf24a7",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "UncategorizedText",
+        "element_id": "269105c057491f81fc21bacf0305489f"
+    },
+    "page_content": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics",
+    "type": "Document"
+}

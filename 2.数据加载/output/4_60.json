@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8617041707038879,
+        "coordinates": {
+            "points": [
+                [
+                    198.6578826904297,
+                    1071.456787109375
+                ],
+                [
+                    198.6578826904297,
+                    1097.289794921875
+                ],
+                [
+                    646.776611328125,
+                    1097.289794921875
+                ],
+                [
+                    646.776611328125,
+                    1071.456787109375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Title",
+        "element_id": "78b0d58aeb4558ecf4f416bc0d65fef3"
+    },
+    "page_content": "2.2 Semantic Refinement Module",
+    "type": "Document"
+}

@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9147852659225464,
+        "coordinates": {
+            "points": [
+                [
+                    205.07064819335938,
+                    609.091796875
+                ],
+                [
+                    205.07064819335938,
+                    664.7735595703125
+                ],
+                [
+                    1452.4033203125,
+                    664.7735595703125
+                ],
+                [
+                    1452.4033203125,
+                    609.091796875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "FigureCaption",
+        "element_id": "500f8982bd2a26cc7527db0feb396ded"
+    },
+    "page_content": "Fig. 2. Illustration of the proposed CMCF-SRNet consisting of two modules: cross-modal context fusion module and semantic refinement module (LCA: locality-constrained attention).",
+    "type": "Document"
+}

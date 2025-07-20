@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9177584648132324,
+        "coordinates": {
+            "points": [
+                [
+                    212.79544067382812,
+                    1291.32666015625
+                ],
+                [
+                    212.79544067382812,
+                    1362.5120849609375
+                ],
+                [
+                    1458.4908447265625,
+                    1362.5120849609375
+                ],
+                [
+                    1458.4908447265625,
+                    1291.32666015625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 12,
+        "parent_id": "e72b11a1e4b24f58f4489ab812cb9525",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "a8cfa7827f798eff3af6f58d6f9b9973"
+    },
+    "page_content": "D4. Was the data collection protocol approved (or determined exempt) by an ethics review board? No response.",
+    "type": "Document"
+}

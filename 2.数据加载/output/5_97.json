@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9516727924346924,
+        "coordinates": {
+            "points": [
+                [
+                    848.4296875,
+                    1261.565185546875
+                ],
+                [
+                    848.4296875,
+                    1551.4447021484375
+                ],
+                [
+                    1467.8951416015625,
+                    1551.4447021484375
+                ],
+                [
+                    1467.8951416015625,
+                    1261.565185546875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 5,
+        "parent_id": "fcd22fcfdd8e1c7239f9bbbdf88b319a",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "d4fd4002ceafcbb2a417a81915c22ff2"
+    },
+    "page_content": "We evaluate the performance of emotion recog- nition using the following as evaluation metrics: WAA is a weighted average accuracy over different emotion classes with weights proportional to the number of utterances in a class. WF1 is a weighted mean F1 over different emotion categories with weights proportional to the number of utterances in a particular class.",
+    "type": "Document"
+}

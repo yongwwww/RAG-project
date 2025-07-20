@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9389484524726868,
+        "coordinates": {
+            "points": [
+                [
+                    846.9329223632812,
+                    863.1571655273438
+                ],
+                [
+                    846.9329223632812,
+                    1102.4237060546875
+                ],
+                [
+                    1473.4530029296875,
+                    1102.4237060546875
+                ],
+                [
+                    1473.4530029296875,
+                    863.1571655273438
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 9,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "1159c80db445f1afeb252c2fd43868aa"
+    },
+    "page_content": "Abhinav Joshi, Ashwani Bhat, Ayush Jain, Atin Singh, and Ashutosh Modi. 2022. COGMEN: COntextual- ized GNN based multimodal emotion recognitioN. In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computa- tional Linguistics: Human Language Technologies, pages 4148-4164, Seattle, United States. Association for Computational Linguistics.",
+    "type": "Document"
+}

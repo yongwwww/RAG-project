@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9193205237388611,
+        "coordinates": {
+            "points": [
+                [
+                    215.3997802734375,
+                    517.2991333007812
+                ],
+                [
+                    215.3997802734375,
+                    621.1773681640625
+                ],
+                [
+                    1463.1751708984375,
+                    621.1773681640625
+                ],
+                [
+                    1463.1751708984375,
+                    517.2991333007812
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 12,
+        "parent_id": "e72b11a1e4b24f58f4489ab812cb9525",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "4b9cf20f797f03cc267c21f09f6ba47e"
+    },
+    "page_content": "4 C4. If you used existing packages (e.g., for preprocessing, for normalization, or for evaluation), did you report the implementation, model, and parameter settings used (e.g., NLTK, Spacy, ROUGE, etc.)?",
+    "type": "Document"
+}

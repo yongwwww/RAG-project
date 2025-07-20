@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8739412426948547,
+        "coordinates": {
+            "points": [
+                [
+                    191.48989868164062,
+                    1585.97314453125
+                ],
+                [
+                    191.48989868164062,
+                    2151.53564453125
+                ],
+                [
+                    808.1533203125,
+                    2151.53564453125
+                ],
+                [
+                    808.1533203125,
+                    1585.97314453125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "7a25c1051779e278c910fa35e3e5ad23"
+    },
+    "page_content": "After an intra-modal transformer to capture the global temporal dependencies of unimodal features, we apply a cross-modal locality-constrained trans- former to capture the local contextual informa- tion focusing on correspondences between differ- ent modalities. We extend the traditional trans- former to a two-stream cross-modal transformer to model interactions between two modalities, where each cross-modal transformer block is combined with a cross-modal locality-constrained attention layer. The attention layer could combine the infor- mation from the different sources of data to trans- form the text features using the feature map of audio. Querys, Keys, and Values has been defined as Ql” = X!Whgs kK _ X!Wrats vi\") _",
+    "type": "Document"
+}

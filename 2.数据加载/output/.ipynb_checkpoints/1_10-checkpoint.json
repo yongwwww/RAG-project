@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9470813274383545,
+        "coordinates": {
+            "points": [
+                [
+                    845.8463745117188,
+                    1127.1422119140625
+                ],
+                [
+                    845.8463745117188,
+                    1608.8507080078125
+                ],
+                [
+                    1468.564697265625,
+                    1608.8507080078125
+                ],
+                [
+                    1468.564697265625,
+                    1127.1422119140625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 1,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "44febb3d6a1d26e1af7f5db5460e84ef"
+    },
+    "page_content": "firstly created (Zadeh et al., 2017), then a low-rank multimodal fusion network to improve efficiency and reduce trainable parameters was designed (Liu et al., 2018). A conversational memory network aligns features from different modalities by fusing multi-view information (Hazarika et al., 2018b). In addition, a cross-modal transformer was integrated that learns attention between two-modal features, thus enabling implicit enhancement of the target modality (Tsai et al., 2019). A multimodal fusion graph convolutional network for ERC was put for- ward discussing the impact of fusion methods of various modalities (Hu et al., 2021).",
+    "type": "Document"
+}

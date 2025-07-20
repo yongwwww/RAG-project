@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9260739684104919,
+        "coordinates": {
+            "points": [
+                [
+                    207.9969024658203,
+                    941.6984252929688
+                ],
+                [
+                    207.9969024658203,
+                    1047.7225341796875
+                ],
+                [
+                    1463.4796142578125,
+                    1047.7225341796875
+                ],
+                [
+                    1463.4796142578125,
+                    941.6984252929688
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 12,
+        "parent_id": "e72b11a1e4b24f58f4489ab812cb9525",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "d179d1ed5d47562a5ad9395ae1a55842"
+    },
+    "page_content": "D2. Did you report information about how you recruited (e.g., crowdsourcing platform, students) and paid participants, and discuss if such payment is adequate given the participants’ demographic (e.g., country of residence)?",
+    "type": "Document"
+}

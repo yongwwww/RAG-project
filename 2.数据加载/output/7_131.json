@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.6526487469673157,
+        "coordinates": {
+            "points": [
+                [
+                    846.324951171875,
+                    787.0687866210938
+                ],
+                [
+                    846.324951171875,
+                    847.4334716796875
+                ],
+                [
+                    1462.2481689453125,
+                    847.4334716796875
+                ],
+                [
+                    1462.2481689453125,
+                    787.0687866210938
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 7,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "04ea8d5853ee333e9c146d87fb5d75cb"
+    },
+    "page_content": "Table 4: Comparison with unimodal architectures and ablation study on IEMOCAP(4-way) and MELD.",
+    "type": "Document"
+}

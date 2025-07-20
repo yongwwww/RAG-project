@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8658083081245422,
+        "coordinates": {
+            "points": [
+                [
+                    868.2664184570312,
+                    818.9913940429688
+                ],
+                [
+                    868.2664184570312,
+                    986.7540893554688
+                ],
+                [
+                    1455.53564453125,
+                    986.7540893554688
+                ],
+                [
+                    1455.53564453125,
+                    818.9913940429688
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Formula",
+        "element_id": "c9be3b93efaaa4779f00a946303c0cfe"
+    },
+    "page_content": "Qj nt Jag o> »- awe Gj +a,4We 44) TER jENT ur ne?) =0( (S- we JEN] + aiaWe 4) (11)",
+    "type": "Document"
+}

@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8937806487083435,
+        "coordinates": {
+            "points": [
+                [
+                    198.4686737060547,
+                    1174.2294921875
+                ],
+                [
+                    198.4686737060547,
+                    1238.255126953125
+                ],
+                [
+                    805.4948120117188,
+                    1238.255126953125
+                ],
+                [
+                    805.4948120117188,
+                    1174.2294921875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 5,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "c1981ade2acb9b958df2bbdf190e7732"
+    },
+    "page_content": "where JN is the number of conversations and L; is the number of utterances in the i;; conversation.",
+    "type": "Document"
+}

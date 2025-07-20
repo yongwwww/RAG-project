@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8926838636398315,
+        "coordinates": {
+            "points": [
+                [
+                    188.4102020263672,
+                    1999.5596923828125
+                ],
+                [
+                    188.4102020263672,
+                    2147.134765625
+                ],
+                [
+                    813.9376831054688,
+                    2147.134765625
+                ],
+                [
+                    813.9376831054688,
+                    1999.5596923828125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 10,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "941693db60d2e2a2f98c96a80ec3f87c"
+    },
+    "page_content": "Geng Tu, Bin Liang, Dazhi Jiang, and Ruifeng Xu. 2022. Sentiment- emotion- and context-guided knowledge selection framework for emotion recognition in con- versations. JEEE Transactions on Affective Comput- ing, pages 1-14.",
+    "type": "Document"
+}

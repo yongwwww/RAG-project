@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8621523976325989,
+        "coordinates": {
+            "points": [
+                [
+                    194.8716583251953,
+                    1279.5914306640625
+                ],
+                [
+                    194.8716583251953,
+                    1306.3441162109375
+                ],
+                [
+                    604.9533081054688,
+                    1306.3441162109375
+                ],
+                [
+                    604.9533081054688,
+                    1279.5914306640625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 5,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Title",
+        "element_id": "faf95b86b4e5d360fdda1a5b5e4fbc53"
+    },
+    "page_content": "3 Experiments and Results",
+    "type": "Document"
+}

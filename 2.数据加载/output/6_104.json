@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.7643742561340332,
+        "coordinates": {
+            "points": [
+                [
+                    224.97789001464844,
+                    206.3221435546875
+                ],
+                [
+                    224.97789001464844,
+                    228.9707794189453
+                ],
+                [
+                    1426.0347900390625,
+                    228.9707794189453
+                ],
+                [
+                    1426.0347900390625,
+                    206.3221435546875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 6,
+        "parent_id": "89b2cbd1d6c34ffaa761e4253ade2c1c",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "FigureCaption",
+        "element_id": "fa89bccd2d27fd703ba2b9e46b92cb18"
+    },
+    "page_content": "Table 2: Results on IEMOCAP (6-way) and MELD (x represents models with multimodal (A+T+V) setting).",
+    "type": "Document"
+}

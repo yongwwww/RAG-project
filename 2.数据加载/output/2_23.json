@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9513531923294067,
+        "coordinates": {
+            "points": [
+                [
+                    194.32696533203125,
+                    1746.8712158203125
+                ],
+                [
+                    194.32696533203125,
+                    2146.8125
+                ],
+                [
+                    815.156494140625,
+                    2146.8125
+                ],
+                [
+                    815.156494140625,
+                    1746.8712158203125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 2,
+        "parent_id": "20a04d29fbfc6986ba2ea103f2bf24a7",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "4d2f2cd2d3352210e54a416d3aa839b1"
+    },
+    "page_content": "In this work, we propose a cross-modality context fusion and semantic refinement network (CMCF-SRNet). First, we investigate a cross- modality context fusion module to integrate textual and audio information considering the impact of the local context and the emotional inertia of speak- ers, achieved by a cross-modal locality-constrained attention. Second, we design a semantic refine- ment module to extract effective semantic features and contextual information including the nearby surroundings and distant information. The main",
+    "type": "Document"
+}

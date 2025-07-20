@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9314312934875488,
+        "coordinates": {
+            "points": [
+                [
+                    195.9070281982422,
+                    678.661865234375
+                ],
+                [
+                    195.9070281982422,
+                    907.4463500976562
+                ],
+                [
+                    809.0060424804688,
+                    907.4463500976562
+                ],
+                [
+                    809.0060424804688,
+                    678.661865234375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "762fbab156dfdcf8e9ac9117bf273c85"
+    },
+    "page_content": "the key KM) and the value vi vector for encod- ing input features X; € R”*% as shown in Fig. 3 (a). An attention map of attention weights for a single attention head a\") € R\"*” is obtained by the attention mechanism and is used to compute a weighted sum of the values and obtain the output.",
+    "type": "Document"
+}

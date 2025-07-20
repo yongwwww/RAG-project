@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8906571865081787,
+        "coordinates": {
+            "points": [
+                [
+                    843.2921142578125,
+                    205.46246337890625
+                ],
+                [
+                    843.2921142578125,
+                    324.25982666015625
+                ],
+                [
+                    1463.5767822265625,
+                    324.25982666015625
+                ],
+                [
+                    1463.5767822265625,
+                    205.46246337890625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 10,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "07aa608d36590565be1b9541ec1b25a3"
+    },
+    "page_content": "Songlong Xing, Sijie Mai, and Haifeng Hu. 2022. Adapted dynamic memory network for emotion recognition in conversation. [EEE Transactions on Affective Computing, 13(3):1426-1439.",
+    "type": "Document"
+}

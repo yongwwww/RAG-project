@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8272259831428528,
+        "coordinates": {
+            "points": [
+                [
+                    192.85824584960938,
+                    1059.5860595703125
+                ],
+                [
+                    192.85824584960938,
+                    1166.5711669921875
+                ],
+                [
+                    810.8974609375,
+                    1166.5711669921875
+                ],
+                [
+                    810.8974609375,
+                    1059.5860595703125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "7ef20cb9634b6a784089fc250828187d"
+    },
+    "page_content": "where W € R&Nx4i, NV represents the total num- ber of heads. Finally, we add a residual connection followed by a layer norm and obtain X/.",
+    "type": "Document"
+}

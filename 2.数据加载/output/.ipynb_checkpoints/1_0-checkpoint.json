@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.5007389783859253,
+        "coordinates": {
+            "points": [
+                [
+                    276.0118713378906,
+                    220.12962341308594
+                ],
+                [
+                    276.0118713378906,
+                    301.4120788574219
+                ],
+                [
+                    1381.2967529296875,
+                    301.4120788574219
+                ],
+                [
+                    1381.2967529296875,
+                    220.12962341308594
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 1,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Title",
+        "element_id": "acb95fc75e64915bc27bfa966737513f"
+    },
+    "page_content": "CMCEF-SRNet: A Cross-Modality Context Fusion and Semantic Refinement Network for Emotion Recognition in Conversation",
+    "type": "Document"
+}

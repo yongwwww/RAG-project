@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.931935727596283,
+        "coordinates": {
+            "points": [
+                [
+                    869.2160034179688,
+                    201.94964599609375
+                ],
+                [
+                    869.2160034179688,
+                    383.5594787597656
+                ],
+                [
+                    1468.8306884765625,
+                    383.5594787597656
+                ],
+                [
+                    1468.8306884765625,
+                    201.94964599609375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 5,
+        "parent_id": "b49c526da6722624096d0e23f84cb3ad",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "327b7a39c830f36a5f6d29c3ae18a6b8"
+    },
+    "page_content": "2021) and the first six categories for the 6-way conditions. Following previous works, utterances from the first 8 speakers are used as the training and validation sets while the others are used as the testing set.",
+    "type": "Document"
+}

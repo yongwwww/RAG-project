@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9451517462730408,
+        "coordinates": {
+            "points": [
+                [
+                    196.8600311279297,
+                    1846.6956787109375
+                ],
+                [
+                    196.8600311279297,
+                    2146.393798828125
+                ],
+                [
+                    816.2713012695312,
+                    2146.393798828125
+                ],
+                [
+                    816.2713012695312,
+                    1846.6956787109375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 9,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "580584d756d08011c293bd09c3645566"
+    },
+    "page_content": "Devamanyu Hazarika, Soujanya Poria, Amir Zadeh, Erik Cambria, Louis-Philippe Morency, and Roger Zimmermann. 2018b. Conversational memory net- work for emotion recognition in dyadic dialogue videos. In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Tech- nologies, Volume 1 (Long Papers), pages 2122-2132, New Orleans, Louisiana. Association for Computa- tional Linguistics.",
+    "type": "Document"
+}

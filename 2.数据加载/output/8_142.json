@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8676260113716125,
+        "coordinates": {
+            "points": [
+                [
+                    846.641845703125,
+                    398.30731201171875
+                ],
+                [
+                    846.641845703125,
+                    456.0116271972656
+                ],
+                [
+                    1460.55859375,
+                    456.0116271972656
+                ],
+                [
+                    1460.55859375,
+                    398.30731201171875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 8,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "FigureCaption",
+        "element_id": "01fc43adf815fba5be3844ba08568d22"
+    },
+    "page_content": "Fig. 9. Histogram of distance between the target utter- ance and its (2nd) highest attended utterance on MELD.",
+    "type": "Document"
+}

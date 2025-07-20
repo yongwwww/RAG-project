@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8380776047706604,
+        "coordinates": {
+            "points": [
+                [
+                    846.6920776367188,
+                    646.5133666992188
+                ],
+                [
+                    846.6920776367188,
+                    675.5458984375
+                ],
+                [
+                    1386.0235595703125,
+                    675.5458984375
+                ],
+                [
+                    1386.0235595703125,
+                    646.5133666992188
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 5,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Title",
+        "element_id": "fcd22fcfdd8e1c7239f9bbbdf88b319a"
+    },
+    "page_content": "3.2 Implementation Details and Metrics",
+    "type": "Document"
+}

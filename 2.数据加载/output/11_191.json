@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8399239182472229,
+        "coordinates": {
+            "points": [
+                [
+                    219.93472290039062,
+                    818.5715942382812
+                ],
+                [
+                    219.93472290039062,
+                    886.8433837890625
+                ],
+                [
+                    886.33740234375,
+                    886.8433837890625
+                ],
+                [
+                    886.33740234375,
+                    818.5715942382812
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 11,
+        "parent_id": "be8a8e73077f46d859414c0cf83b81d1",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "9c26bff130055400836dfc2cd8eac22b"
+    },
+    "page_content": "B1. Did you cite the creators of artifacts you used? No response.",
+    "type": "Document"
+}

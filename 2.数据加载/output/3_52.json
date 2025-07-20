@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.4339059591293335,
+        "coordinates": {
+            "points": [
+                [
+                    791.9663696289062,
+                    2175.92626953125
+                ],
+                [
+                    791.9663696289062,
+                    2206.6040475
+                ],
+                [
+                    867.7993055555554,
+                    2206.6040475
+                ],
+                [
+                    867.7993055555554,
+                    2175.92626953125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "06b494a4e0976faceded46ac0cbc4a60"
+    },
+    "page_content": "13101",
+    "type": "Document"
+}

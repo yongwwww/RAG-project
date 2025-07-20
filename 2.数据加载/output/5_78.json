@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.6898348927497864,
+        "coordinates": {
+            "points": [
+                [
+                    265.0174560546875,
+                    586.5802001953125
+                ],
+                [
+                    265.0174560546875,
+                    609.6470336914062
+                ],
+                [
+                    733.6884765625,
+                    609.6470336914062
+                ],
+                [
+                    733.6884765625,
+                    586.5802001953125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 5,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "FigureCaption",
+        "element_id": "8eaa0233cd1fe7fac47262269c8ed4a7"
+    },
+    "page_content": "Fig. 4. Semantic Information Refinement.",
+    "type": "Document"
+}

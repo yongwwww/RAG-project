@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9373776316642761,
+        "coordinates": {
+            "points": [
+                [
+                    844.5285034179688,
+                    1444.623291015625
+                ],
+                [
+                    844.5285034179688,
+                    2144.16943359375
+                ],
+                [
+                    1467.381591796875,
+                    2144.16943359375
+                ],
+                [
+                    1467.381591796875,
+                    1444.623291015625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 7,
+        "parent_id": "94f015a0487b2533d20cc0780f7efe0c",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "dbde978f1093af3e3ad2e75938844b5f"
+    },
+    "page_content": "To observe the effect of the graph-based seman- tic refinement components, we visualize the fea- tures with and without the semantic refinement components (Fig. 8). We easily notice a better for- mation of emotion clusters proving the necessity of capturing semantic dependency in utterances. Additionally, we conduct ablation experiments on the correlation-based RGCN and Semantic Graph- Transformer respectively, specifically, we respec- tively remove the semantic edge weight (SEW) in the RGCN and semantic-positional encoding (SPE) in the Graph-Transformer, after removing the SEW, WA and WF1 on IEMOCAP decreased by 2.6%, 1.9% respectively, while after removing the SPE, WA and WF! on IEMOCAP decreased by 3.2%, 2.7% respectively, which indicates that the proposed semantic encoder is necessary, the result in Table 4 shows the advantages of focusing on emotional semantic clues.",
+    "type": "Document"
+}

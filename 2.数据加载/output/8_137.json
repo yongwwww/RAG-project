@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9040948152542114,
+        "coordinates": {
+            "points": [
+                [
+                    193.4705352783203,
+                    777.5003051757812
+                ],
+                [
+                    193.4705352783203,
+                    872.292236328125
+                ],
+                [
+                    800.978759765625,
+                    872.292236328125
+                ],
+                [
+                    800.978759765625,
+                    777.5003051757812
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 8,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "FigureCaption",
+        "element_id": "52bfe469b61b3c98ed623f9b23a14d66"
+    },
+    "page_content": "Fig. 8. T-SNE representation with and without semantic information refinement components respectively on (a) IEMOCAP (4-way) and (b) IEMOCAP (6-way).",
+    "type": "Document"
+}

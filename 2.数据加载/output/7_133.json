@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8397982120513916,
+        "coordinates": {
+            "points": [
+                [
+                    849.80615234375,
+                    1373.747802734375
+                ],
+                [
+                    849.80615234375,
+                    1400.64208984375
+                ],
+                [
+                    1315.6954345703125,
+                    1400.64208984375
+                ],
+                [
+                    1315.6954345703125,
+                    1373.747802734375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 7,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Title",
+        "element_id": "94f015a0487b2533d20cc0780f7efe0c"
+    },
+    "page_content": "4.2 Effect of Semantic Refinement",
+    "type": "Document"
+}

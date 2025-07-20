@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9060250520706177,
+        "coordinates": {
+            "points": [
+                [
+                    213.76687622070312,
+                    919.254638671875
+                ],
+                [
+                    213.76687622070312,
+                    989.2373657226562
+                ],
+                [
+                    1297.604248046875,
+                    989.2373657226562
+                ],
+                [
+                    1297.604248046875,
+                    919.254638671875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 11,
+        "parent_id": "be8a8e73077f46d859414c0cf83b81d1",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "e1416aa28f0b8f04fdc123577acd17e8"
+    },
+    "page_content": "B2. Did you discuss the license or terms for use and / or distribution of any artifacts? No response.",
+    "type": "Document"
+}

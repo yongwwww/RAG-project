@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9020993113517761,
+        "coordinates": {
+            "points": [
+                [
+                    848.0745849609375,
+                    1004.3067016601562
+                ],
+                [
+                    848.0745849609375,
+                    1095.9073486328125
+                ],
+                [
+                    1462.440185546875,
+                    1095.9073486328125
+                ],
+                [
+                    1462.440185546875,
+                    1004.3067016601562
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 1,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "FigureCaption",
+        "element_id": "546ad567a7650ead41abd9190620f93f"
+    },
+    "page_content": "Fig. 1. An example conversation between two speakers with corresponding emotions evoked for each utterance illustrating the importance of local context.",
+    "type": "Document"
+}

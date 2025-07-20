@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.921764075756073,
+        "coordinates": {
+            "points": [
+                [
+                    836.9276123046875,
+                    1550.730712890625
+                ],
+                [
+                    836.9276123046875,
+                    1729.71142578125
+                ],
+                [
+                    1471.1956787109375,
+                    1729.71142578125
+                ],
+                [
+                    1471.1956787109375,
+                    1550.730712890625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 9,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "f910c15c3c0938bc0a54d84f435d897f"
+    },
+    "page_content": "Navonil Majumder, Soujanya Poria, Devamanyu Haz- arika, Rada Mihalcea, Alexander Gelbukh, and Erik Cambria. 2019. Dialoguernn: An attentive rnn for emotion detection in conversations. In Proceedings of the AAAI conference on artificial intelligence, vol- ume 33, pages 6818-6825.",
+    "type": "Document"
+}

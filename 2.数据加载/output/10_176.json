@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9218219518661499,
+        "coordinates": {
+            "points": [
+                [
+                    197.40611267089844,
+                    1755.2760009765625
+                ],
+                [
+                    197.40611267089844,
+                    1965.9168701171875
+                ],
+                [
+                    811.81982421875,
+                    1965.9168701171875
+                ],
+                [
+                    811.81982421875,
+                    1755.2760009765625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 10,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "01db9dfa835f0815a1e27d519502d4a2"
+    },
+    "page_content": "Yao-Hung Hubert Tsai, Shaojie Bai, J. Zico Kolter, Louis-Philippe Morency, and Ruslan Salakhutdinov. 2019. Multimodal transformer for unaligned multi- modal language sequences. In Proceedings of the 57th Annual Meeting of the Association for Computa- tional Linguistics, pages 6558-6569, Florence, Italy. Association for Computational Linguistics.",
+    "type": "Document"
+}

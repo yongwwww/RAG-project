@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8552555441856384,
+        "coordinates": {
+            "points": [
+                [
+                    198.10308837890625,
+                    641.1686401367188
+                ],
+                [
+                    198.10308837890625,
+                    704.12255859375
+                ],
+                [
+                    812.2593383789062,
+                    704.12255859375
+                ],
+                [
+                    812.2593383789062,
+                    641.1686401367188
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 6,
+        "parent_id": "89b2cbd1d6c34ffaa761e4253ade2c1c",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "5298d246d6912e9f1e5c3bcc10857308"
+    },
+    "page_content": "the emotion classification into a graph-based node classification problem.",
+    "type": "Document"
+}

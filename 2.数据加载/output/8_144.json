@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8515142202377319,
+        "coordinates": {
+            "points": [
+                [
+                    893.9185180664062,
+                    766.042236328125
+                ],
+                [
+                    893.9185180664062,
+                    789.491455078125
+                ],
+                [
+                    1416.208251953125,
+                    789.491455078125
+                ],
+                [
+                    1416.208251953125,
+                    766.042236328125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 8,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "FigureCaption",
+        "element_id": "2ae7961d2d68df22be63df4a73f68341"
+    },
+    "page_content": "Fig. 10. Comparison for various window sizes.",
+    "type": "Document"
+}

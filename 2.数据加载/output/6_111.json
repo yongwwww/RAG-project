@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9335338473320007,
+        "coordinates": {
+            "points": [
+                [
+                    193.55491638183594,
+                    1333.041259765625
+                ],
+                [
+                    193.55491638183594,
+                    2168.50390625
+                ],
+                [
+                    809.0897827148438,
+                    2168.50390625
+                ],
+                [
+                    809.0897827148438,
+                    1333.041259765625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 6,
+        "parent_id": "89b2cbd1d6c34ffaa761e4253ade2c1c",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "299ee26ecfb556a6140b4d4bdbe621f4"
+    },
+    "page_content": "To verify the effectiveness of our proposed method, we compare our proposed CMCF-SRNet with state-of-the-art baseline approaches on the IEMOCAP (4-way), IEMOCAP (6-way) and MELD datasets on the overall performance and for each emotion category. As is shown in Table 2, our model outperforms all the baselines mentioned above on the two datasets. For the IEMOCAP (4- way) dataset, ours achieves the new state-of-the-art record, 86.5% on F1 and 86.9% on WAA, which shows an absolute improvement of 2.0% on Fl score. For the IEMOCAP (6-way) dataset, our pro- posed method also succeeds with 70.5% on WAA and 69.6% on Fl which outperforms Bc-LSTM and DialogueGCN by 10.7% on WAA, 10.6% on WF! and 5.3% on WAA, 5.5% on WF! possibly due to the cross-modal context fusion architecture applied in our proposed model; in addition, it out- performs CTNet and MMDEN which utilize multi- modal fusion approaches by 2.3%~2.5% on WAA and 1.5%~2.1% on WF'1, the reason lies in that these methods focus on the multimodal represen-",
+    "type": "Document"
+}

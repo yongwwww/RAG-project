@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.36590465903282166,
+        "coordinates": {
+            "points": [
+                [
+                    490.4175720214844,
+                    2278.92919921875
+                ],
+                [
+                    490.4175720214844,
+                    2304.104328888889
+                ],
+                [
+                    1167.7823486328125,
+                    2304.104328888889
+                ],
+                [
+                    1167.7823486328125,
+                    2278.92919921875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 1,
+        "parent_id": "20a04d29fbfc6986ba2ea103f2bf24a7",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "358f560df78e23ce81a0506ec71dc3b3"
+    },
+    "page_content": "July 9-14, 2023 ©2023 Association for Computational Linguistics",
+    "type": "Document"
+}

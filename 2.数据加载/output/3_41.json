@@ -1,0 +1,41 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "coordinates": {
+            "points": [
+                [
+                    196.8237313888889,
+                    1183.0525849624999
+                ],
+                [
+                    196.8237313888889,
+                    1521.6202625
+                ],
+                [
+                    803.1579840857639,
+                    1521.6202625
+                ],
+                [
+                    803.1579840857639,
+                    1183.0525849624999
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Image",
+        "element_id": "e3fed8c37f279d79e12b261f8860b815"
+    },
+    "page_content": ", PE 4x; Cross-modal LCA we ‘Add & LN Wa, Oy wi wi reEQ > Y Wa ict X (a) (b)",
+    "type": "Document"
+}

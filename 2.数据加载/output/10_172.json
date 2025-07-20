@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9080442786216736,
+        "coordinates": {
+            "points": [
+                [
+                    191.27215576171875,
+                    1024.6676025390625
+                ],
+                [
+                    191.27215576171875,
+                    1146.3848876953125
+                ],
+                [
+                    818.4396362304688,
+                    1146.3848876953125
+                ],
+                [
+                    818.4396362304688,
+                    1024.6676025390625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 10,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "71e3a575220aab9645e5c9454884929d"
+    },
+    "page_content": "Aravind Sesagiri Raamkumar and Yinping Yang. 2022. Empathetic conversational systems: A review of cur- rent advances, gaps, and opportunities. JEEE Trans- actions on Affective Computing, pages 1-20.",
+    "type": "Document"
+}

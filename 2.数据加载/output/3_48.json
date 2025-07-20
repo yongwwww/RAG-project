@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9507689476013184,
+        "coordinates": {
+            "points": [
+                [
+                    844.653564453125,
+                    1311.4493408203125
+                ],
+                [
+                    844.653564453125,
+                    1711.95849609375
+                ],
+                [
+                    1469.20458984375,
+                    1711.95849609375
+                ],
+                [
+                    1469.20458984375,
+                    1311.4493408203125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "d0c0a219b7e4ea6fbb54f4817d68a863"
+    },
+    "page_content": "where 5, Sn are respectively the speakers of utter- ances u,, and u,,. As the emotion of current utter- ance is more affected by the local utterances close to it, acommon idea is to apply a fixed window, but in order to solve the problem that the fixed-window method treats utterances in the window equally, we calculate the relative position weighting RP of h,, and hy, then feed into a sigmoid function. Finally, we apply an element-wise product to ob- tain LCA = sigmoid(RP) x S'A, which combines both local context and speaker information.",
+    "type": "Document"
+}

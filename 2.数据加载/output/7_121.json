@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9484552145004272,
+        "coordinates": {
+            "points": [
+                [
+                    198.9561767578125,
+                    320.6700744628906
+                ],
+                [
+                    198.9561767578125,
+                    536.4799194335938
+                ],
+                [
+                    813.1204223632812,
+                    536.4799194335938
+                ],
+                [
+                    813.1204223632812,
+                    320.6700744628906
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 7,
+        "parent_id": "796b790c9cf543bf94f43b46d70eaa29",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "08f50d6f1bfc88e5e9b5b41c2020d789"
+    },
+    "page_content": "First, we conduct uni-modal experiments using text modality and our proposed method still gives com- parable performance compared to the SOTA uni- modal architectures (Table 3). As shown in Table 4, adding more information via other modalities helps to improve the performance.",
+    "type": "Document"
+}

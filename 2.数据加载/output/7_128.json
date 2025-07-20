@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.5977157950401306,
+        "coordinates": {
+            "points": [
+                [
+                    194.0158233642578,
+                    2031.16162109375
+                ],
+                [
+                    194.0158233642578,
+                    2093.50439453125
+                ],
+                [
+                    814.9348754882812,
+                    2093.50439453125
+                ],
+                [
+                    814.9348754882812,
+                    2031.16162109375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 7,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "FigureCaption",
+        "element_id": "c6511316cafbf6f11e88b02f77c9d116"
+    },
+    "page_content": "Fig. 7. Performance of different fusion strategies com- pared with ASB on MELD and IEMOCAP.",
+    "type": "Document"
+}

@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9494429230690002,
+        "coordinates": {
+            "points": [
+                [
+                    848.5313720703125,
+                    686.3980712890625
+                ],
+                [
+                    848.5313720703125,
+                    978.1639404296875
+                ],
+                [
+                    1466.1357421875,
+                    978.1639404296875
+                ],
+                [
+                    1466.1357421875,
+                    686.3980712890625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "20e809bd9ad1aa97fa14db0cf02a481e"
+    },
+    "page_content": "xX jWnw for a single attention head where i,j € {a,t},i # j. Considering that to predict the emo- tion of an utterance, the speaker’s recently stated ut- terance has the greatest correlation with its emotion, thus, we propose a locality-constrained and speaker aware attention LCA (Fig. 3 (b)) by masking the traditional weight map W;; = so fimax(QiK7 ) in Eq. (3) as in Eq. (4).",
+    "type": "Document"
+}

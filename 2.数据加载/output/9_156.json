@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9441339373588562,
+        "coordinates": {
+            "points": [
+                [
+                    195.9421844482422,
+                    1236.279296875
+                ],
+                [
+                    195.9421844482422,
+                    1538.1094970703125
+                ],
+                [
+                    821.6356201171875,
+                    1538.1094970703125
+                ],
+                [
+                    821.6356201171875,
+                    1236.279296875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 9,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "5be43ae2c0cf1d26dbf4023b1b5f35ff"
+    },
+    "page_content": "Deepanway Ghosal, Navonil Majumder, Soujanya Poria, Niyati Chhaya, and Alexander Gelbukh. 2019. Di- alogueGCN: A graph convolutional neural network for emotion recognition in conversation. In Proceed- ings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th Inter- national Joint Conference on Natural Language Pro- cessing (EMNLP-IJCNLP), pages 154-164, Hong Kong, China. Association for Computational Lin- guistics.",
+    "type": "Document"
+}

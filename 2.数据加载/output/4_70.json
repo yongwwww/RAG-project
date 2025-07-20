@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.946455180644989,
+        "coordinates": {
+            "points": [
+                [
+                    845.8125,
+                    1239.7574462890625
+                ],
+                [
+                    845.8125,
+                    1755.7955322265625
+                ],
+                [
+                    1468.8482666015625,
+                    1755.7955322265625
+                ],
+                [
+                    1468.8482666015625,
+                    1239.7574462890625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "7b8bdfe5f3e028c76b4c7331a409bd01"
+    },
+    "page_content": "Then, we adopt a semantic graph-transformer to extract global semantic information from the node feature taking in consideration the relative position of utterances (Fig. 4). It adopts the vanilla multi- head attention into graph learning by taking into ac- count nodes connected via edges. Given node fea- tures H = [h1,ho,..., hn] obtained from RGCN, we define two encodings to represent semantic re- lationship between two nodes in a graph. The first is relative position encoding P, each vector of P represents the topological relation represented by their shortest path distance between two nodes, the second is semantic encoding S defined by Eq. (10), we take an addition operation and obtain SP .",
+    "type": "Document"
+}

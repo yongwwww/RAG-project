@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9365659952163696,
+        "coordinates": {
+            "points": [
+                [
+                    845.31640625,
+                    1327.57177734375
+                ],
+                [
+                    845.31640625,
+                    1946.8719482421875
+                ],
+                [
+                    1461.34326171875,
+                    1946.8719482421875
+                ],
+                [
+                    1461.34326171875,
+                    1327.57177734375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 2,
+        "parent_id": "56c056947a6c088138d1b55e428539e4",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "3519de3f1651b08ee7bc0571a6b5cf75"
+    },
+    "page_content": "The overall architecture of our proposed CMCF- SRNet is outlined in Fig. 2 and summarized as follows: (1) The acoustic/textual feature matrix for utterances is first fed to acoustic/linguistic em- bedding block to obtain unimodal representations, and then cross-modal locality-constrained atten- tion (LCA) is utilized to generate high-level cross- modal features which go into an attentive selection block; (2) We define a semantic graph and employ the relational graph convolutional network to cap- ture the inter-utterance dependence, then leverage an aggregation of effective semantic features by integrating a semantic-position encoding; (3) The nodes embeddings are fed into the classifier to ob- tain the final prediction. In the following three subsections, we discuss in detail the specific imple- mentation of the proposed innovation modules.",
+    "type": "Document"
+}

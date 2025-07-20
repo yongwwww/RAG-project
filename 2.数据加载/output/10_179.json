@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8949909210205078,
+        "coordinates": {
+            "points": [
+                [
+                    843.2760009765625,
+                    351.54437255859375
+                ],
+                [
+                    843.2760009765625,
+                    472.2800598144531
+                ],
+                [
+                    1462.169189453125,
+                    472.2800598144531
+                ],
+                [
+                    1462.169189453125,
+                    351.54437255859375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 10,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "b8ac3110157df290975b19198873bc9c"
+    },
+    "page_content": "Hao Yuan, Haiyang Yu, Shurui Gui, and Shuiwang Ji. 2022. Explainability in graph neural networks: A taxonomic survey. JEEE Transactions on Pattern Analysis and Machine Intelligence, pages 1-19.",
+    "type": "Document"
+}

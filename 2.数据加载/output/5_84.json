@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.911882221698761,
+        "coordinates": {
+            "points": [
+                [
+                    193.8833465576172,
+                    962.7626342773438
+                ],
+                [
+                    193.8833465576172,
+                    1066.4598388671875
+                ],
+                [
+                    807.1278686523438,
+                    1066.4598388671875
+                ],
+                [
+                    807.1278686523438,
+                    962.7626342773438
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 5,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "26d6c42a1c927f61c3a7a4424d72bfb3"
+    },
+    "page_content": "where y; is the emotion label predicted for the utter- ance u;. We choose the categorical cross-entropy loss function during training as is shown below:",
+    "type": "Document"
+}

@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8886026740074158,
+        "coordinates": {
+            "points": [
+                [
+                    846.19580078125,
+                    1758.01904296875
+                ],
+                [
+                    846.19580078125,
+                    1879.2957763671875
+                ],
+                [
+                    1468.0242919921875,
+                    1879.2957763671875
+                ],
+                [
+                    1468.0242919921875,
+                    1758.01904296875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 9,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "158402c297d8e078d98d2e5ca87ac79a"
+    },
+    "page_content": "Weizhi Nie, Rihao Chang, Minjie Ren, Yuting Su, and Anan Liu. 2022. I-gen: Incremental graph convo- lution network for conversation emotion detection. IEEE Transactions on Multimedia, 24:4471-448 1.",
+    "type": "Document"
+}

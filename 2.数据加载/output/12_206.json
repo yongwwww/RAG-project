@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9053291082382202,
+        "coordinates": {
+            "points": [
+                [
+                    219.38720703125,
+                    203.53228759765625
+                ],
+                [
+                    219.38720703125,
+                    273.8403015136719
+                ],
+                [
+                    1457.8343505859375,
+                    273.8403015136719
+                ],
+                [
+                    1457.8343505859375,
+                    203.53228759765625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 12,
+        "parent_id": "e72b11a1e4b24f58f4489ab812cb9525",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "9b62a5ad6e780a34db45869254f32755"
+    },
+    "page_content": "C2. Did you discuss the experimental setup, including hyperparameter search and best-found hyperparameter values?",
+    "type": "Document"
+}

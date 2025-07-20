@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9407854080200195,
+        "coordinates": {
+            "points": [
+                [
+                    847.71923828125,
+                    1967.2869873046875
+                ],
+                [
+                    847.71923828125,
+                    2147.08984375
+                ],
+                [
+                    1464.7099609375,
+                    2147.08984375
+                ],
+                [
+                    1464.7099609375,
+                    1967.2869873046875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "9ad80d132536739049e8c48e29fe335c"
+    },
+    "page_content": "To obtain the fusion representation combing both intra-modal and cross-modal contextual informa- tion from two modalities, an attentive selection block is proposed to distribute different impor- tance to different modalities, we propose a model-",
+    "type": "Document"
+}

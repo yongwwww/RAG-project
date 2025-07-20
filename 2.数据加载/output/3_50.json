@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9190475940704346,
+        "coordinates": {
+            "points": [
+                [
+                    845.1018676757812,
+                    1838.4371337890625
+                ],
+                [
+                    845.1018676757812,
+                    1942.6090087890625
+                ],
+                [
+                    1465.6690673828125,
+                    1942.6090087890625
+                ],
+                [
+                    1465.6690673828125,
+                    1838.4371337890625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "3d117227defa79f35dc838bd89aa4de7"
+    },
+    "page_content": "where N is the actual length of the dialogue, and both M and C are hyperparameters. Here, we set M and C to S and 1.5 respectively.",
+    "type": "Document"
+}

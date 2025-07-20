@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8214902877807617,
+        "coordinates": {
+            "points": [
+                [
+                    195.17410278320312,
+                    668.1737060546875
+                ],
+                [
+                    195.17410278320312,
+                    692.7100830078125
+                ],
+                [
+                    506.6807861328125,
+                    692.7100830078125
+                ],
+                [
+                    506.6807861328125,
+                    668.1737060546875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 5,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Title",
+        "element_id": "5332193f65d74b2e1636ca11220e7866"
+    },
+    "page_content": "2.3 Emotion Classifier",
+    "type": "Document"
+}

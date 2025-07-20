@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9533286094665527,
+        "coordinates": {
+            "points": [
+                [
+                    194.8932342529297,
+                    1355.780517578125
+                ],
+                [
+                    194.8932342529297,
+                    1722.4532470703125
+                ],
+                [
+                    813.0881958007812,
+                    1722.4532470703125
+                ],
+                [
+                    813.0881958007812,
+                    1355.780517578125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 2,
+        "parent_id": "20a04d29fbfc6986ba2ea103f2bf24a7",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "040708a7cf146ef67efaa726834a15a6"
+    },
+    "page_content": "However, the existing graph-based methods also have limitations. First, they mostly ignore the se- mantic similarity between context utterances lead- ing to a lack of semantic correlation. Second, these models learn node embeddings by capturing lo- cal network structure but ignore the position of the node within a broader context of the graph structure and the deep semantic features from a global view. To address this issue, we investigate a semantic graph-based transformer.",
+    "type": "Document"
+}

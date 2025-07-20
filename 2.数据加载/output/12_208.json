@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9312506914138794,
+        "coordinates": {
+            "points": [
+                [
+                    210.23806762695312,
+                    342.7530517578125
+                ],
+                [
+                    210.23806762695312,
+                    450.3957824707031
+                ],
+                [
+                    1462.2420654296875,
+                    450.3957824707031
+                ],
+                [
+                    1462.2420654296875,
+                    342.7530517578125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 12,
+        "parent_id": "e72b11a1e4b24f58f4489ab812cb9525",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "09695097e041aeb679a0106a2dbea9b7"
+    },
+    "page_content": "C3. Did you report descriptive statistics about your results (e.g., error bars around results, summary statistics from sets of experiments), and is it transparent whether you are reporting the max, mean, etc. or just a single run?",
+    "type": "Document"
+}

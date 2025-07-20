@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8752521276473999,
+        "coordinates": {
+            "points": [
+                [
+                    192.44129943847656,
+                    874.2933959960938
+                ],
+                [
+                    192.44129943847656,
+                    976.77978515625
+                ],
+                [
+                    804.9566040039062,
+                    976.77978515625
+                ],
+                [
+                    804.9566040039062,
+                    874.2933959960938
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "020149af89aa5213906e6ac12ed57a06"
+    },
+    "page_content": "the attention scores ag, € R'** where K = 3. The final multimodal features gm € R® are generated as follows with the output X/ ¢ R'*®;",
+    "type": "Document"
+}

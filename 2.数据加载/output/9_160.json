@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9317129254341125,
+        "coordinates": {
+            "points": [
+                [
+                    851.0830688476562,
+                    414.8748474121094
+                ],
+                [
+                    851.0830688476562,
+                    685.7974853515625
+                ],
+                [
+                    1479.002685546875,
+                    685.7974853515625
+                ],
+                [
+                    1479.002685546875,
+                    414.8748474121094
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 9,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "638d5091196aaddf69e0e9282ecf9782"
+    },
+    "page_content": "Jingwen Hu, Yuchen Liu, Jinming Zhao, and Qin Jin. 2021. MMGCN: Multimodal fusion via deep graph convolution network for emotion recognition in con- versation. In Proceedings of the 59th Annual Meet- ing of the Association for Computational Linguistics and the 11th International Joint Conference on Natu- ral Language Processing (Volume 1: Long Papers), pages 5666-5675, Online. Association for Computa- tional Linguistics.",
+    "type": "Document"
+}

@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9036394953727722,
+        "coordinates": {
+            "points": [
+                [
+                    192.46824645996094,
+                    2046.8272705078125
+                ],
+                [
+                    192.46824645996094,
+                    2146.9462890625
+                ],
+                [
+                    803.3355712890625,
+                    2146.9462890625
+                ],
+                [
+                    803.3355712890625,
+                    2046.8272705078125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "0b81b75a6ab632b42ff2623a7f77de23"
+    },
+    "page_content": "We define intra-relations between the utter- ances spoken by the same speaker Rintra € {U% + U%} and inter-relations by different",
+    "type": "Document"
+}

@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8514973521232605,
+        "coordinates": {
+            "points": [
+                [
+                    195.96661376953125,
+                    205.8306121826172
+                ],
+                [
+                    195.96661376953125,
+                    233.1553497314453
+                ],
+                [
+                    395.7967834472656,
+                    233.1553497314453
+                ],
+                [
+                    395.7967834472656,
+                    205.8306121826172
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 7,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Title",
+        "element_id": "b4c344ea1dcd1f7aad8bd35548b5a004"
+    },
+    "page_content": "4 Discussion",
+    "type": "Document"
+}

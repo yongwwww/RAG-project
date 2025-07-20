@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9148647785186768,
+        "coordinates": {
+            "points": [
+                [
+                    206.43043518066406,
+                    1406.8360595703125
+                ],
+                [
+                    206.43043518066406,
+                    1516.72509765625
+                ],
+                [
+                    1464.8397216796875,
+                    1516.72509765625
+                ],
+                [
+                    1464.8397216796875,
+                    1406.8360595703125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 11,
+        "parent_id": "be8a8e73077f46d859414c0cf83b81d1",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "6f4593924212b759989ad123ccea719b"
+    },
+    "page_content": "B5. Did you provide documentation of the artifacts, e.g., coverage of domains, languages, and linguistic phenomena, demographic groups represented, etc.? No response.",
+    "type": "Document"
+}

@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9508228898048401,
+        "coordinates": {
+            "points": [
+                [
+                    848.8992919921875,
+                    521.6737670898438
+                ],
+                [
+                    848.8992919921875,
+                    808.5630493164062
+                ],
+                [
+                    1464.106201171875,
+                    808.5630493164062
+                ],
+                [
+                    1464.106201171875,
+                    521.6737670898438
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "c69f6a5ff301496e78270563f5d46195"
+    },
+    "page_content": "Semantic Information Refinement: In this paper, a modified relational graph convolution layer is adopted to capture local dependency defined by the relations. The node representations and edge weights are feed into a two-layer correlation-based RGCN which can be summarized as follows, here, we introduce the concept of aggregate functions to the above mechanism:",
+    "type": "Document"
+}

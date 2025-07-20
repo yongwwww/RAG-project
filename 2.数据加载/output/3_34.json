@@ -1,0 +1,41 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "coordinates": {
+            "points": [
+                [
+                    196.8237313888889,
+                    166.48075780133303
+                ],
+                [
+                    196.8237313888889,
+                    583.1622308333332
+                ],
+                [
+                    1456.7499245488893,
+                    583.1622308333332
+                ],
+                [
+                    1456.7499245488893,
+                    166.48075780133303
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Image",
+        "element_id": "7dfd119c2583ba92b9a3bcff32c232a0"
+    },
+    "page_content": "2X] Acoustic I = \"Embedding A z - 3 = 9 5 1 IE e@ & 2 Semantic = e Cross-modal Le Information {+ »| LCA Refinement s @ = E I |e ® = 3 a 2 X, [Linguistic = “|Embedding E Cross-modality Context Fusion Module Emotion Classifier @ Muttiplication @ Element-wise Addition",
+    "type": "Document"
+}

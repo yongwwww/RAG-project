@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.897944986820221,
+        "coordinates": {
+            "points": [
+                [
+                    843.4551391601562,
+                    736.9221801757812
+                ],
+                [
+                    843.4551391601562,
+                    856.8853759765625
+                ],
+                [
+                    1465.9383544921875,
+                    856.8853759765625
+                ],
+                [
+                    1465.9383544921875,
+                    736.9221801757812
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 10,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "5a1bac94829ac6c65e1858b1b78c78a4"
+    },
+    "page_content": "Tong Zhu, Leida Li, Jufeng Yang, Sicheng Zhao, and Xiao Xiao. 2022. Multimodal emotion classification with multi-level semantic reasoning network. JEEE Transactions on Multimedia, pages 1-13.",
+    "type": "Document"
+}

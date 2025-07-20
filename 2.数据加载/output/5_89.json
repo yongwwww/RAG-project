@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9366472363471985,
+        "coordinates": {
+            "points": [
+                [
+                    198.7262725830078,
+                    1388.412353515625
+                ],
+                [
+                    198.7262725830078,
+                    1529.5281982421875
+                ],
+                [
+                    810.2230224609375,
+                    1529.5281982421875
+                ],
+                [
+                    810.2230224609375,
+                    1388.412353515625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 5,
+        "parent_id": "0a12fd56eccf4058e952b217b1011401",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "4ea766b7fda353c4e2a79a46168758d4"
+    },
+    "page_content": "In this section, we conduct several experiments to evaluate our proposed method and compare it with state-of-the-art baselines on two benchmark datasets, the dataset statistics are given in Table 1:",
+    "type": "Document"
+}

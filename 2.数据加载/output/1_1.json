@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.6899998188018799,
+        "coordinates": {
+            "points": [
+                [
+                    434.3023681640625,
+                    372.3717346191406
+                ],
+                [
+                    434.3023681640625,
+                    401.9649353027344
+                ],
+                [
+                    674.5347290039062,
+                    401.9649353027344
+                ],
+                [
+                    674.5347290039062,
+                    372.3717346191406
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 1,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Title",
+        "element_id": "0f955ec53169b0de22c3f711bf7d3306"
+    },
+    "page_content": "Xiaoheng Zhang",
+    "type": "Document"
+}

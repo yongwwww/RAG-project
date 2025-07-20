@@ -1,0 +1,41 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "coordinates": {
+            "points": [
+                [
+                    850.4008530555556,
+                    1825.3057932395832
+                ],
+                [
+                    850.4008530555556,
+                    2090.545929583333
+                ],
+                [
+                    1456.7535997326388,
+                    2090.545929583333
+                ],
+                [
+                    1456.7535997326388,
+                    1825.3057932395832
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 6,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Image",
+        "element_id": "b00e00800cb8ff22171ea6e414a815dd"
+    },
+    "page_content": "rev} 0021 0039 007 oss a9 ang] © 00059 008. exc} 016 00067 01 hp sd nu ange rou 9 (a) (b)",
+    "type": "Document"
+}

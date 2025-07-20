@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9486851096153259,
+        "coordinates": {
+            "points": [
+                [
+                    849.4266967773438,
+                    1706.8577880859375
+                ],
+                [
+                    849.4266967773438,
+                    2145.301025390625
+                ],
+                [
+                    1465.986083984375,
+                    2145.301025390625
+                ],
+                [
+                    1465.986083984375,
+                    1706.8577880859375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 8,
+        "parent_id": "ebe4c6934e64b8a018d408fa58ac1d71",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "ad5801143e52e9ee6752e5e6049219ea"
+    },
+    "page_content": "Although experiments on two public datasets show the effectiveness of our proposed method compared with other state-of-the-art methods, we notice that our proposed model fails to distinguish similar emo- tions effectively going through the prediction re- sults, as frustrated and anger, happy and excited (Fig. 5(a)). Moreover, our proposed model tends to misclassify samples of other emotions to neutral on MELD due to the majority proportion of neutral samples in these datasets. We will address this is- sue in future work by integrating a component for capturing the fine-grained emotions.",
+    "type": "Document"
+}

@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.892437756061554,
+        "coordinates": {
+            "points": [
+                [
+                    206.9126434326172,
+                    1607.5299072265625
+                ],
+                [
+                    206.9126434326172,
+                    1731.7650146484375
+                ],
+                [
+                    806.671630859375,
+                    1731.7650146484375
+                ],
+                [
+                    806.671630859375,
+                    1607.5299072265625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 5,
+        "parent_id": "b49c526da6722624096d0e23f84cb3ad",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Table",
+        "element_id": "a1e6264be75e129129e46412f29f8bd7"
+    },
+    "page_content": "woe IEMOCAP MELD Statistics train valid test train valid _ test Nb of dialogues 120 31 1039 114 = 280 Nb of utterances | 4290/5810 1241/1623 | 9989 1109 2610",
+    "type": "Document"
+}

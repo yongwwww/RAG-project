@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9203447103500366,
+        "coordinates": {
+            "points": [
+                [
+                    847.755615234375,
+                    2007.628173828125
+                ],
+                [
+                    847.755615234375,
+                    2147.66943359375
+                ],
+                [
+                    1467.70263671875,
+                    2147.66943359375
+                ],
+                [
+                    1467.70263671875,
+                    2007.628173828125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "47b659744313d72e1d337644cc2fd0a2"
+    },
+    "page_content": "Previous methods focus on encoding graph infor- mation into either the attention map or input fea- tures. First, our method encodes positional and semantic information represented by edge weight",
+    "type": "Document"
+}

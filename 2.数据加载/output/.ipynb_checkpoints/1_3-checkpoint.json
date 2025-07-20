@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.7762531638145447,
+        "coordinates": {
+            "points": [
+                [
+                    336.75262451171875,
+                    410.7362060546875
+                ],
+                [
+                    336.75262451171875,
+                    479.8293151855469
+                ],
+                [
+                    765.57177734375,
+                    479.8293151855469
+                ],
+                [
+                    765.57177734375,
+                    410.7362060546875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 1,
+        "parent_id": "0f955ec53169b0de22c3f711bf7d3306",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "fbe280480d9229daca2b510e48564a21"
+    },
+    "page_content": "Beihang University xiaoheng_zhang@buaa.edu.cn",
+    "type": "Document"
+}

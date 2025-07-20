@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9371054768562317,
+        "coordinates": {
+            "points": [
+                [
+                    849.7948608398438,
+                    852.6153564453125
+                ],
+                [
+                    849.7948608398438,
+                    1314.09326171875
+                ],
+                [
+                    1463.5853271484375,
+                    1314.09326171875
+                ],
+                [
+                    1463.5853271484375,
+                    852.6153564453125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 2,
+        "parent_id": "56c056947a6c088138d1b55e428539e4",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "7777dd5020f8cf0183a572e9a191bc11"
+    },
+    "page_content": "Given a dialogue D = {u1, ua, ..., un}, where N denotes the number of utterances and uy, is the m*” utterance in the conversation, the emotion recogni- tion in conversation task aims to predict the emo- tion label for each utterance in the conversation. Each utterance involves two sources of data corre- sponding to acoustic (a) and textual (¢) modalities represented as um = {u%,, ut, } where ul € Re for audio and ud € R® for text, where da, d; represent feature dimensions. The combined input features matrix for all utterances in a dialogue is given by: X; = ful, us, ue) where i € {a, t}.",
+    "type": "Document"
+}

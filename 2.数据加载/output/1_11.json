@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9472600221633911,
+        "coordinates": {
+            "points": [
+                [
+                    194.7426300048828,
+                    1581.4232177734375
+                ],
+                [
+                    194.7426300048828,
+                    2101.852294921875
+                ],
+                [
+                    817.5265502929688,
+                    2101.852294921875
+                ],
+                [
+                    817.5265502929688,
+                    1581.4232177734375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 1,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "0087c42338b82b5f7b6d28f646e0d7c7"
+    },
+    "page_content": "Emotion recognition in conversation (ERC) plays an important role in affective dialogue systems, aiming to understand and generate empathetic re- sponses (Raamkumar and Yang, 2022). Most stud- ies on ERC focus primarily on the textual modal- ity (Majumder et al., 2019). Although they can be easily extended to multimodal paradigms by per- forming early or late fusion (Poria et al., 2017a), it is difficult to capture contextual interactions be- tween modalities, which limits the utilization of multiple modalities. For instance, a tensor fu- sion network based on the utterance-level explicit alignment learning both intra-modality and inter- modality interactions via the Cartesian product was",
+    "type": "Document"
+}

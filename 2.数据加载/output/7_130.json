@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.948172390460968,
+        "coordinates": {
+            "points": [
+                [
+                    846.2719116210938,
+                    205.35610961914062
+                ],
+                [
+                    846.2719116210938,
+                    721.8976440429688
+                ],
+                [
+                    1464.8707275390625,
+                    721.8976440429688
+                ],
+                [
+                    1464.8707275390625,
+                    205.35610961914062
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 7,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "2de88e3903e3ed9df7bf1b716f2f060f"
+    },
+    "page_content": "tion block (ASB), we implement three comparison methods. Experimental results (Table 4) demon- strate that our ASB achieves the best performance. It shows an absolute improvement over Add on WA by 2.5% on IEMOCAP, probably because Add copes with the multimodal features equally and cannot highlight emotion-relevant modalities while ASB can prioritize important modalities via the at- tention mechanism. Meanwhile, it also shows an improvement over Concatenate and Tensor Fusion which may suffer from the curse of dimensionality by 1.2% and 3.2% as our proposed method can generate more effective smaller-size multimodal features for emotion recognition.",
+    "type": "Document"
+}

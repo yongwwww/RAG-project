@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.836969792842865,
+        "coordinates": {
+            "points": [
+                [
+                    193.7395782470703,
+                    977.5128784179688
+                ],
+                [
+                    193.7395782470703,
+                    1002.01708984375
+                ],
+                [
+                    700.8787841796875,
+                    1002.01708984375
+                ],
+                [
+                    700.8787841796875,
+                    977.5128784179688
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 8,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Title",
+        "element_id": "0e7d66f88dacd8be7f846ecf4d89c471"
+    },
+    "page_content": "4.3 Visualization and Interpretability",
+    "type": "Document"
+}

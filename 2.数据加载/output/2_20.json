@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9318376779556274,
+        "coordinates": {
+            "points": [
+                [
+                    197.672607421875,
+                    445.935791015625
+                ],
+                [
+                    197.672607421875,
+                    1318.30517578125
+                ],
+                [
+                    815.5774536132812,
+                    1318.30517578125
+                ],
+                [
+                    815.5774536132812,
+                    445.935791015625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 2,
+        "parent_id": "20a04d29fbfc6986ba2ea103f2bf24a7",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "c1491f1807c4376d60f2bf1f4db0f8d9"
+    },
+    "page_content": "Other popular approaches use graph-based neu- ral networks and solve the context propagation is- sues in RNN-based architectures, including Dia- logueGCN (Ghosal et al., 2019) which first con- structed the graph considering both speaker and conversation sequential information. Recent ap- proaches like DAG-ERC (Shen et al., 2021) com- bined the advantages of conventional graph-based models and RNN-based models, a semantics GAT was employed to adjust the weight of knowl- edge (Tu et al., 2022), latent correlations have been leveraged among the utterances through a multi- branch graph network (Ren et al., 2022). Mean- while, existing GNN models use different aggrega- tion schemes for a node to aggregate feature mes- sages from its neighbors (Yuan et al., 2022): Graph convolutional networks use mean pooling while graph attention networks aggregate neighborhood information with trainable attention weights to cap- ture local details (Isufi et al., 2022). Furthermore, graph networks consider global graph information during aggregation and have been used to explore the semantic relationship between regional objects and",
+    "type": "Document"
+}

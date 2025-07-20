@@ -1,0 +1,3 @@
+MILVUS_URI='http://47.111.95.149:19530'
+COLLECTION_NAME='milvus_project'
+TAVILY_API_KEY = "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"

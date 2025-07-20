@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9110466837882996,
+        "coordinates": {
+            "points": [
+                [
+                    842.6510620117188,
+                    714.8379516601562
+                ],
+                [
+                    842.6510620117188,
+                    832.4065551757812
+                ],
+                [
+                    1473.0467529296875,
+                    832.4065551757812
+                ],
+                [
+                    1473.0467529296875,
+                    714.8379516601562
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 9,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "552d4ea491527b5ec019e95fecb8dd61"
+    },
+    "page_content": "Elvin Isufi, Fernando Gama, and Alejandro Ribeiro. 2022. Edgenets: Edge varying graph neural networks. IEEE Transactions on Pattern Analysis and Machine Intelligence, 44(11):7457-7473.",
+    "type": "Document"
+}

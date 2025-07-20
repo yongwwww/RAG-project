@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9538694024085999,
+        "coordinates": {
+            "points": [
+                [
+                    849.9691162109375,
+                    1625.83544921875
+                ],
+                [
+                    849.9691162109375,
+                    1952.6436767578125
+                ],
+                [
+                    1468.427978515625,
+                    1952.6436767578125
+                ],
+                [
+                    1468.427978515625,
+                    1625.83544921875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 1,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "b2187ee3b24d6aaaa462dcb18d088e63"
+    },
+    "page_content": "However, these methods mostly use a simple concatenation ignoring complex interactions be- tween modalities, resulting in leveraging context information insufficiently or the problem of data sparseness. Besides, they simply consider the emo- tional impact of context in the whole conversation but neglect the emotional inertia of speakers and the fact that the local context may have a higher impact than long-distance utterances.",
+    "type": "Document"
+}

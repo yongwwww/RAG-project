@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9194114208221436,
+        "coordinates": {
+            "points": [
+                [
+                    847.9866333007812,
+                    2037.9176025390625
+                ],
+                [
+                    847.9866333007812,
+                    2147.405517578125
+                ],
+                [
+                    1459.4580078125,
+                    2147.405517578125
+                ],
+                [
+                    1459.4580078125,
+                    2037.9176025390625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 2,
+        "parent_id": "e5f30035dcea0a9cdc30108ac1368f6a",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "d203c3ba4a910629a5ed6bc0ef5c1623"
+    },
+    "page_content": "We consider the order of the utterances by adding the triangle positional embedding (PE) directly to X; while i € {a,t}, and we define the query Q”,",
+    "type": "Document"
+}

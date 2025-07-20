@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9187924265861511,
+        "coordinates": {
+            "points": [
+                [
+                    848.2991943359375,
+                    1077.2984619140625
+                ],
+                [
+                    848.2991943359375,
+                    1218.2684326171875
+                ],
+                [
+                    1462.4583740234375,
+                    1218.2684326171875
+                ],
+                [
+                    1462.4583740234375,
+                    1077.2984619140625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "3173d25b908d7c732b7ca4e6252eb889"
+    },
+    "page_content": "We design intra-speaker masks SA to focus on the utterances of the current speaker and model the emotional inertia of this interlocutor’s emotional flow on the current utterance:",
+    "type": "Document"
+}

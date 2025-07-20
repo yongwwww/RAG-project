@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.6505064368247986,
+        "coordinates": {
+            "points": [
+                [
+                    905.8201293945312,
+                    1461.1517333984375
+                ],
+                [
+                    905.8201293945312,
+                    1482.9320068359375
+                ],
+                [
+                    1401.5162353515625,
+                    1482.9320068359375
+                ],
+                [
+                    1401.5162353515625,
+                    1461.1517333984375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 6,
+        "parent_id": "89b2cbd1d6c34ffaa761e4253ade2c1c",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "FigureCaption",
+        "element_id": "726a5de3f480c0b05ae833a4f0fe2ea8"
+    },
+    "page_content": "Table 3: Performance on IEMOCAP (4-way).",
+    "type": "Document"
+}

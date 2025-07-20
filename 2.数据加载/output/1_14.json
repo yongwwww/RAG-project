@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9424450397491455,
+        "coordinates": {
+            "points": [
+                [
+                    852.967041015625,
+                    1972.918212890625
+                ],
+                [
+                    852.967041015625,
+                    2146.082763671875
+                ],
+                [
+                    1468.470458984375,
+                    2146.082763671875
+                ],
+                [
+                    1468.470458984375,
+                    1972.918212890625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 1,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "eef755f95eac7c7f0709f6876c5de5fb"
+    },
+    "page_content": "As both the current utterance and the surround- ing contexts are vital for the emotion perception, previous works proposed different methods in- cluding RNN-based models and graph-based mod- els to explore contextual clues: A LSTM-based",
+    "type": "Document"
+}

@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.6546162962913513,
+        "coordinates": {
+            "points": [
+                [
+                    219.81129455566406,
+                    402.2469787597656
+                ],
+                [
+                    219.81129455566406,
+                    469.8209228515625
+                ],
+                [
+                    914.6071166992188,
+                    469.8209228515625
+                ],
+                [
+                    914.6071166992188,
+                    402.2469787597656
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 11,
+        "parent_id": "e049b04dab9973a2eb72734c3ed57804",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "2f6ae77a406a2732589a4df27d72e13b"
+    },
+    "page_content": "W A2. Did you discuss any potential risks of your work? Section IV",
+    "type": "Document"
+}

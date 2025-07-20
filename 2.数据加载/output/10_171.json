@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9467644095420837,
+        "coordinates": {
+            "points": [
+                [
+                    195.87376403808594,
+                    754.4112548828125
+                ],
+                [
+                    195.87376403808594,
+                    993.3594970703125
+                ],
+                [
+                    820.1160278320312,
+                    993.3594970703125
+                ],
+                [
+                    820.1160278320312,
+                    754.4112548828125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 10,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "c24aa7fdbd1e3d1a3ab994b9d5c8d694"
+    },
+    "page_content": "Soujanya Poria, Devamanyu Hazarika, Navonil Ma- jumder, Gautam Naik, Erik Cambria, and Rada Mi- halcea. 2019. MELD: A multimodal multi-party dataset for emotion recognition in conversations. In Proceedings of the 57th Annual Meeting of the As- sociation for Computational Linguistics, pages 527— 536, Florence, Italy. Association for Computational Linguistics.",
+    "type": "Document"
+}

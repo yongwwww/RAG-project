@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.924412727355957,
+        "coordinates": {
+            "points": [
+                [
+                    196.428955078125,
+                    717.1521606445312
+                ],
+                [
+                    196.428955078125,
+                    932.9537353515625
+                ],
+                [
+                    814.2736206054688,
+                    932.9537353515625
+                ],
+                [
+                    814.2736206054688,
+                    717.1521606445312
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 6,
+        "parent_id": "89b2cbd1d6c34ffaa761e4253ade2c1c",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "122e4b85a2f60589672f41e1b20d0583"
+    },
+    "page_content": "MMGCN (Hu et al., 2021) uses multimodal de- pendencies and speaker information effectively and applies GCN to obtain contextual information. CTNet (Lian et al., 2021) utilizes transformer to obtain the multimodal rerpesentation by modeling the intra-modal and cross-modal interactions.",
+    "type": "Document"
+}

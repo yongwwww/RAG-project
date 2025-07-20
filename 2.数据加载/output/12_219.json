@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9066591858863831,
+        "coordinates": {
+            "points": [
+                [
+                    214.04647827148438,
+                    1393.5174560546875
+                ],
+                [
+                    214.04647827148438,
+                    1462.6640625
+                ],
+                [
+                    1456.66455078125,
+                    1462.6640625
+                ],
+                [
+                    1456.66455078125,
+                    1393.5174560546875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 12,
+        "parent_id": "e72b11a1e4b24f58f4489ab812cb9525",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "54b83783e25ec39fc4c9389fe63211ea"
+    },
+    "page_content": "DS. Did you report the basic demographic and geographic characteristics of the annotator population that is the source of the data?",
+    "type": "Document"
+}

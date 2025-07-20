@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9489464163780212,
+        "coordinates": {
+            "points": [
+                [
+                    194.77284240722656,
+                    322.8153991699219
+                ],
+                [
+                    194.77284240722656,
+                    724.8367919921875
+                ],
+                [
+                    812.3851318359375,
+                    724.8367919921875
+                ],
+                [
+                    812.3851318359375,
+                    322.8153991699219
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "edf8d8733d2c885042de72c22b6582c2"
+    },
+    "page_content": "We extract utterance-level acoustic features rn € R4@, text features a € R?, cross-modal features al? € R? for each utterance u,, (where Um is the m*“” utterance in the conversation). Then we equalize feature dimensions of all inputs and concatenate them together considering different contributions of different modalities to focus on important modalities. Technically, at a given time, given the input feature H = [H, H),..., H(®)] with K the number of modalities. The score for each modality is computed bY",
+    "type": "Document"
+}

@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9117866158485413,
+        "coordinates": {
+            "points": [
+                [
+                    242.73829650878906,
+                    646.3508911132812
+                ],
+                [
+                    242.73829650878906,
+                    1497.4033203125
+                ],
+                [
+                    761.30712890625,
+                    1497.4033203125
+                ],
+                [
+                    761.30712890625,
+                    646.3508911132812
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 1,
+        "parent_id": "b184cbeb7f31396d3e32ed16d51d8b5d",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "54e4510f553098a551ca970b571cc3a6"
+    },
+    "page_content": "Emotion recognition in conversation (ERC) has attracted enormous attention for its applications in empathetic dialogue systems. However, most previous researches simply concatenate multi- modal representations, leading to an accumu- lation of redundant information and a limited context interaction between modalities. Fur- thermore, they only consider simple contextual features ignoring semantic clues, resulting in an insufficient capture of the semantic coherence and consistency in conversations. To address these limitations, we propose a cross-modality context fusion and semantic refinement net- work (CMCF-SRNet). Specifically, we first design a cross-modal locality-constrained trans- former to explore the multimodal interaction. Second, we investigate a graph-based seman- tic refinement transformer, which solves the limitation of insufficient semantic relationship information between utterances. Extensive ex- periments on two public benchmark datasets show the effectiveness of our proposed method compared with other state-of-the-art methods, indicating its potential application in emotion recognition. Our model is available at https: //github.com/zxiaohen/CMCF-SRNet.",
+    "type": "Document"
+}

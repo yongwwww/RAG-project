@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9153474569320679,
+        "coordinates": {
+            "points": [
+                [
+                    188.39797973632812,
+                    900.251708984375
+                ],
+                [
+                    188.39797973632812,
+                    1023.0690307617188
+                ],
+                [
+                    817.9368286132812,
+                    1023.0690307617188
+                ],
+                [
+                    817.9368286132812,
+                    900.251708984375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 9,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "304efbc6c1dd50f7d8c34835ba07a18f"
+    },
+    "page_content": "Shizhe Chen and Qin Jin. 2016. Multi-modal condi- tional attention fusion for dimensional emotion pre- diction. In Proceedings of the 24th ACM interna- tional conference on Multimedia, pages 571-575.",
+    "type": "Document"
+}

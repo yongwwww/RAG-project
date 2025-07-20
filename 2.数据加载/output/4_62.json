@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9456173777580261,
+        "coordinates": {
+            "points": [
+                [
+                    194.67996215820312,
+                    1546.98779296875
+                ],
+                [
+                    194.67996215820312,
+                    1945.6776123046875
+                ],
+                [
+                    810.2813720703125,
+                    1945.6776123046875
+                ],
+                [
+                    810.2813720703125,
+                    1546.98779296875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "parent_id": "78b0d58aeb4558ecf4f416bc0d65fef3",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "ab1fc741bb05912db404a433865988f8"
+    },
+    "page_content": "Semantic Graph Construction: To establish se- mantic relations between the nearby utterances and to capture both inter-speaker and intra-speaker ef- fects, we define a semantic graph G,= (V;,Es) based on the conversational semantic-aware depen- dency. Each utterance is represented by a node and different connection edges represent directed relations (past and future), V; denotes a set of utter- ance nodes, and FE, C V, x V, is a set of relations that represent the semantic similarity between the utterances, defined as Eq. (10).",
+    "type": "Document"
+}

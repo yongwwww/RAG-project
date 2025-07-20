@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9082018136978149,
+        "coordinates": {
+            "points": [
+                [
+                    843.2742309570312,
+                    423.54345703125
+                ],
+                [
+                    843.2742309570312,
+                    563.2367553710938
+                ],
+                [
+                    1468.28271484375,
+                    563.2367553710938
+                ],
+                [
+                    1468.28271484375,
+                    423.54345703125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 2,
+        "parent_id": "20a04d29fbfc6986ba2ea103f2bf24a7",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "6302550c82f9b6e06c16198df9f75705"
+    },
+    "page_content": "¢ We define a semantic graph to model the relations between neighboring utterances and a semantic graph-based transformer encoder is adopted to capture the global underlying semantic.",
+    "type": "Document"
+}

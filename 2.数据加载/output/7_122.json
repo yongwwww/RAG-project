@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9185102581977844,
+        "coordinates": {
+            "points": [
+                [
+                    192.6753387451172,
+                    543.1561279296875
+                ],
+                [
+                    192.6753387451172,
+                    1536.3184814453125
+                ],
+                [
+                    808.6807250976562,
+                    1536.3184814453125
+                ],
+                [
+                    808.6807250976562,
+                    543.1561279296875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 7,
+        "parent_id": "796b790c9cf543bf94f43b46d70eaa29",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "f28d1dc2def7de024ad7a85f38859bee"
+    },
+    "page_content": "To verify the effectiveness of our cross-modal locality constrained transformer-based contextual fusion strategy, we conduct the ablation experi- ments as listed in Table 4: 1) Without cross-modal Locality Constrained Attention (w/o LCA): We re- move the transformers and combine utterance-level features directly with Attentive Selection Block; 2) Without Attentive Selection Block (w/o ASB); 3) Ours: Our proposed method. The results demon- strate that our proposed CMCF-SRNet with LCA significantly improved the WF1 and WA indexes. After adding LCA, the WA and WF1 of the model were improved by 3.2% and 3.4% respectively, in- dicating that the cross-modal transformer can com- prehensively improve the performance. Then, as is shown in Fig. 6, we take the lexical modality for example and visualize its attention weights in conversations after different components. The red rectangles at the first line indicate that the 10th and the 14th utterances in the conversation show more importance for the emotion detection accord- ing to the intra-modal transforme while that in the second line indicates that according to the cross- modal transformer the 4th to 7th utterances should be paid more attention. These results verify that the outputs of cross-modal transformer contribute conversational emotion",
+    "type": "Document"
+}

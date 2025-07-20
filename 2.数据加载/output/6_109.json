@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9259800314903259,
+        "coordinates": {
+            "points": [
+                [
+                    197.76876831054688,
+                    1060.99755859375
+                ],
+                [
+                    197.76876831054688,
+                    1201.4764404296875
+                ],
+                [
+                    814.1790161132812,
+                    1201.4764404296875
+                ],
+                [
+                    814.1790161132812,
+                    1060.99755859375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 6,
+        "parent_id": "89b2cbd1d6c34ffaa761e4253ade2c1c",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "c80cee344ceddc174160653b637c0169"
+    },
+    "page_content": "I-GCN (Nie et al., 2022) utilize the graph structure to represent conversation at different times and ap- ply the incremental graph structure to imitate the process of dynamic conversation.",
+    "type": "Document"
+}

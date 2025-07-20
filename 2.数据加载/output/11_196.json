@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "coordinates": {
+            "points": [
+                [
+                    256.0,
+                    1349.0
+                ],
+                [
+                    256.0,
+                    1375.0
+                ],
+                [
+                    410.0,
+                    1375.0
+                ],
+                [
+                    410.0,
+                    1349.0
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 11,
+        "parent_id": "be8a8e73077f46d859414c0cf83b81d1",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "UncategorizedText",
+        "element_id": "4cf5ac48feb37d533387bc012577b586"
+    },
+    "page_content": "No response.",
+    "type": "Document"
+}

@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.6540876030921936,
+        "coordinates": {
+            "points": [
+                [
+                    194.2405548095703,
+                    707.1543579101562
+                ],
+                [
+                    194.2405548095703,
+                    738.7391357421875
+                ],
+                [
+                    813.1708984375,
+                    738.7391357421875
+                ],
+                [
+                    813.1708984375,
+                    707.1543579101562
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 11,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Title",
+        "element_id": "be8a8e73077f46d859414c0cf83b81d1"
+    },
+    "page_content": "B Did you use or create scientific artifacts?",
+    "type": "Document"
+}

@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9502534866333008,
+        "coordinates": {
+            "points": [
+                [
+                    193.259765625,
+                    264.49591064453125
+                ],
+                [
+                    193.259765625,
+                    558.2703857421875
+                ],
+                [
+                    813.4285278320312,
+                    558.2703857421875
+                ],
+                [
+                    813.4285278320312,
+                    264.49591064453125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 9,
+        "parent_id": "ebe4c6934e64b8a018d408fa58ac1d71",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "1e9bfdcd24d9e0d442d3446a0cdb3176"
+    },
+    "page_content": "We appreciate the insightful suggestions from the anonymous reviewers to further improve our paper. This work was supported in part by the National Natural Science Foundation of China under Grant 62201023 and Beijing Natural Science Foundation under Grant Z220017, and in part by the Beijing Municipal Education Commission-Natural Science Foundation [KZ202110025036].",
+    "type": "Document"
+}

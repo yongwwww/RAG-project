@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9074580669403076,
+        "coordinates": {
+            "points": [
+                [
+                    837.4545288085938,
+                    270.32586669921875
+                ],
+                [
+                    837.4545288085938,
+                    416.038818359375
+                ],
+                [
+                    1462.81494140625,
+                    416.038818359375
+                ],
+                [
+                    1462.81494140625,
+                    270.32586669921875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 2,
+        "parent_id": "20a04d29fbfc6986ba2ea103f2bf24a7",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "ad98bf3a95b720e5b0a466e158edddef"
+    },
+    "page_content": "* Our proposed CMCF-SRNet is developed firstly by exploring cross-modal locality-constrained transformer to facilitate multimodal context fu- sion, bridging the gap of current works on ERC.",
+    "type": "Document"
+}

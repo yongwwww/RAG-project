@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9515854716300964,
+        "coordinates": {
+            "points": [
+                [
+                    847.5908203125,
+                    199.54660034179688
+                ],
+                [
+                    847.5908203125,
+                    496.5905456542969
+                ],
+                [
+                    1467.457275390625,
+                    496.5905456542969
+                ],
+                [
+                    1467.457275390625,
+                    199.54660034179688
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "12035aa3b62268f826539eedecdc4d4f"
+    },
+    "page_content": "speakers, Rinter € {U% = USi i}. ing\" We fur- ther consider a context window using P and F as hyperparameters to denote relations between the past P utterances and future F utterances for ev- ery utterance. The relational semantic graph can be regarded as a local-view modeling of the re- lationships between utterances in a dialogue and covering semantics features.",
+    "type": "Document"
+}

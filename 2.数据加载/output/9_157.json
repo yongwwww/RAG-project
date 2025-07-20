@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.944879412651062,
+        "coordinates": {
+            "points": [
+                [
+                    192.7176513671875,
+                    1572.4771728515625
+                ],
+                [
+                    192.7176513671875,
+                    1813.1798095703125
+                ],
+                [
+                    819.4158325195312,
+                    1813.1798095703125
+                ],
+                [
+                    819.4158325195312,
+                    1572.4771728515625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 9,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "5a547f1447699861d332d07de160326d"
+    },
+    "page_content": "Devamanyu Hazarika, Soujanya Poria, Rada Mihal- cea, Erik Cambria, and Roger Zimmermann. 2018a. ICON: Interactive conversational memory network for multimodal emotion detection. In Proceedings of the 2018 Conference on Empirical Methods in Nat- ural Language Processing, pages 2594-2604, Brus- sels, Belgium. Association for Computational Lin- guistics.",
+    "type": "Document"
+}

@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9488459229469299,
+        "coordinates": {
+            "points": [
+                [
+                    191.1822052001953,
+                    1125.9342041015625
+                ],
+                [
+                    191.1822052001953,
+                    1529.6507568359375
+                ],
+                [
+                    813.6806030273438,
+                    1529.6507568359375
+                ],
+                [
+                    813.6806030273438,
+                    1125.9342041015625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "parent_id": "78b0d58aeb4558ecf4f416bc0d65fef3",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "384ab66dee8feff0544359758de8841f"
+    },
+    "page_content": "To explore the semantic relationships between ut- terances in a dialogue, a novel model for semantic information refining is proposed, which is illus- trated in the semantic refinement module in Fig. 2. It mainly consists of two stages: relational seman- tic graph construction and semantic information refinement. The well-defined semantic graph is fed into a two-layer RGCN to compute semantic fea- tures of utterances and their interaction relations. Then the global semantic information is further extracted by a semantic graph-transformer.",
+    "type": "Document"
+}

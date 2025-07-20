@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9370244145393372,
+        "coordinates": {
+            "points": [
+                [
+                    854.025390625,
+                    393.8362121582031
+                ],
+                [
+                    854.025390625,
+                    610.3303833007812
+                ],
+                [
+                    1474.6419677734375,
+                    610.3303833007812
+                ],
+                [
+                    1474.6419677734375,
+                    393.8362121582031
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 5,
+        "parent_id": "b49c526da6722624096d0e23f84cb3ad",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "dc8636161122b3a41b730ebe8949d004"
+    },
+    "page_content": "MELD (Poria et al., 2019) is a large-scale multi-party conversational dataset which con- tains 13708 utterances and 1433 conversations from TV series Friends, and each utterance is annotated with one of the following labels: anger, joy, sadness, neutral, disgust, fear and surprise.",
+    "type": "Document"
+}

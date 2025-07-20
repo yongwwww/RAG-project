@@ -1,0 +1,41 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "coordinates": {
+            "points": [
+                [
+                    197.0,
+                    1545.0
+                ],
+                [
+                    197.0,
+                    1570.0
+                ],
+                [
+                    801.0,
+                    1570.0
+                ],
+                [
+                    801.0,
+                    1545.0
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "UncategorizedText",
+        "element_id": "02c99349e3372bc9026d1909756c12c4"
+    },
+    "page_content": "Fig. 3. (a) Unimodal embedding. (b) Cross-modal LCA.",
+    "type": "Document"
+}

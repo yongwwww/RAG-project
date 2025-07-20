@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.7252640128135681,
+        "coordinates": {
+            "points": [
+                [
+                    950.846923828125,
+                    1854.8902587890625
+                ],
+                [
+                    950.846923828125,
+                    1905.1563720703125
+                ],
+                [
+                    1467.471923828125,
+                    1905.1563720703125
+                ],
+                [
+                    1467.471923828125,
+                    1854.8902587890625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Formula",
+        "element_id": "e2fa618c196fb9aab10a6ec6994b76a8"
+    },
+    "page_content": "meen = GSP prem + kjSP poem (13)",
+    "type": "Document"
+}

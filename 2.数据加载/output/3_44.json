@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.630509614944458,
+        "coordinates": {
+            "points": [
+                [
+                    962.1932373046875,
+                    990.5413208007812
+                ],
+                [
+                    962.1932373046875,
+                    1030.0076904296875
+                ],
+                [
+                    1455.05712890625,
+                    1030.0076904296875
+                ],
+                [
+                    1455.05712890625,
+                    990.5413208007812
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 3,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Formula",
+        "element_id": "991f910245d4f55b3ec84f6f412cc1fe"
+    },
+    "page_content": "Oij(Q, K) = Wij + Vj (3)",
+    "type": "Document"
+}

@@ -1,0 +1,2 @@
+MILVUS_URI='http://47.111.95.149:19530'
+COLLECTION_NAME='milvus_project'

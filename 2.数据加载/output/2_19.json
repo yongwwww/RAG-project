@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9504647254943848,
+        "coordinates": {
+            "points": [
+                [
+                    196.25726318359375,
+                    205.26385498046875
+                ],
+                [
+                    196.25726318359375,
+                    421.2781982421875
+                ],
+                [
+                    814.7051391601562,
+                    421.2781982421875
+                ],
+                [
+                    814.7051391601562,
+                    205.26385498046875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 2,
+        "parent_id": "20a04d29fbfc6986ba2ea103f2bf24a7",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "246d87bcd9ea5195ad19f8055c617024"
+    },
+    "page_content": "model (Poria et al., 2017b) and an interactive con- versational memory network ICON (Hazarika et al., 2018a) capture interaction and history con- text, while DialogueRNN model (Majumder et al., 2019) leverages distinct GRUs to capture speakers’ contextual information.",
+    "type": "Document"
+}

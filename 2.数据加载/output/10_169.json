@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9344539046287537,
+        "coordinates": {
+            "points": [
+                [
+                    196.7290496826172,
+                    206.2645263671875
+                ],
+                [
+                    196.7290496826172,
+                    446.54833984375
+                ],
+                [
+                    820.1552734375,
+                    446.54833984375
+                ],
+                [
+                    820.1552734375,
+                    206.2645263671875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 10,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "4028e91a3f2e5b9261d6b8d0dff09d64"
+    },
+    "page_content": "Soujanya Poria, Erik Cambria, Devamanyu Hazarika, Navonil Majumder, Amir Zadeh, and Louis-Philippe Morency. 2017b. Context-dependent sentiment anal- ysis in user-generated videos. In Proceedings of the 55th Annual Meeting of the Association for Compu- tational Linguistics (Volume 1: Long Papers), pages 873-883, Vancouver, Canada. Association for Com- putational Linguistics.",
+    "type": "Document"
+}

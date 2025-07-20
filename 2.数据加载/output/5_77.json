@@ -1,0 +1,41 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "coordinates": {
+            "points": [
+                [
+                    196.8237313888889,
+                    346.5756104270832
+                ],
+                [
+                    196.8237313888889,
+                    561.344473333333
+                ],
+                [
+                    803.105668970139,
+                    561.344473333333
+                ],
+                [
+                    803.105668970139,
+                    346.5756104270832
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 5,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Image",
+        "element_id": "379acd8ec3261e4aa78215d27a5b4a2c"
+    },
+    "page_content": "(Fincar _] Hs (rincary LJ",
+    "type": "Document"
+}

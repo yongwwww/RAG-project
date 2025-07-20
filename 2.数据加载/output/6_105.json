@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9289121627807617,
+        "coordinates": {
+            "points": [
+                [
+                    215.24537658691406,
+                    256.5665283203125
+                ],
+                [
+                    215.24537658691406,
+                    571.3130493164062
+                ],
+                [
+                    1448.34521484375,
+                    571.3130493164062
+                ],
+                [
+                    1448.34521484375,
+                    256.5665283203125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 6,
+        "parent_id": "89b2cbd1d6c34ffaa761e4253ade2c1c",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Table",
+        "element_id": "9b8f8595c186880e758326ab42b4b681"
+    },
+    "page_content": "IEMOCAP(6-way): Emotion Categories MELD Models Year | Happy Sad Neutral Angry Excited Frustrated Average Average WFI(%) WEFI(%) WEFI(%) WFI(%) WFI(%) WFI(%) | WAA(%) WFI(%) | WFI1(%) Bc-LSTM 2017c | 35.6 69.2 53.5 66.3 61.1 62.4 59.8 59.0 50.8 DialogueGCN 2019 | 42.7 84.5 63.5 64.1 63.0 66.9 65.2 64.1 55.8 CTNet* 2021 | 51.3 79.9 65.8 67.2 78.7 58.8 68.0 67.5 60.5 A-DMN* 2022 | 50.6 76.8 62.9 56.5 71.9 55.7 64.6 64.3 60.4 I-GCN* 2022 | 50.0 83.8 59.3 64.6 74.3 59.0 65.5 65.4 60.8 MMDFN* 2022 | 42.2 78.9 66.4 69.7 75.5 66.3 68.2 68.1 59.4 CMCE-SRNet (Ours) | 2023 | 52.2:40.5 80.9+0.2 68.8+0.5 70.3+0.6 76.740.3 61.640.7 | 70.540.8 69.6£0.7 | 62.340.6",
+    "type": "Document"
+}

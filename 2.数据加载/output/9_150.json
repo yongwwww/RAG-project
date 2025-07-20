@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "coordinates": {
+            "points": [
+                [
+                    197.0,
+                    204.0
+                ],
+                [
+                    197.0,
+                    234.0
+                ],
+                [
+                    470.0,
+                    234.0
+                ],
+                [
+                    470.0,
+                    204.0
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 9,
+        "parent_id": "ebe4c6934e64b8a018d408fa58ac1d71",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "UncategorizedText",
+        "element_id": "f591e90ff259a9af99fb05e87115aee0"
+    },
+    "page_content": "Acknowledgements",
+    "type": "Document"
+}

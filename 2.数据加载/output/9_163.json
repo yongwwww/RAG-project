@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9085750579833984,
+        "coordinates": {
+            "points": [
+                [
+                    844.7955322265625,
+                    1132.221923828125
+                ],
+                [
+                    844.7955322265625,
+                    1252.4622802734375
+                ],
+                [
+                    1472.39404296875,
+                    1252.4622802734375
+                ],
+                [
+                    1472.39404296875,
+                    1132.221923828125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 9,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "e072643631f7b3fc0cb02ed452e28913"
+    },
+    "page_content": "Zheng Lian, Bin Liu, and Jianhua Tao. 2021. Ct- net: Conversational transformer network for emo- tion recognition. IEEE/ACM Transactions on Audio, Speech, and Language Processing, 29:985—1000.",
+    "type": "Document"
+}

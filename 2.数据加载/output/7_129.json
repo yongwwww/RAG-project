@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.6774919033050537,
+        "coordinates": {
+            "points": [
+                [
+                    231.4034881591797,
+                    2118.936767578125
+                ],
+                [
+                    231.4034881591797,
+                    2146.9931640625
+                ],
+                [
+                    812.2149658203125,
+                    2146.9931640625
+                ],
+                [
+                    812.2149658203125,
+                    2118.936767578125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 7,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "262c8a6136f8a78038693788c3fa703e"
+    },
+    "page_content": "To verify the effectiveness of our attentive selec-",
+    "type": "Document"
+}

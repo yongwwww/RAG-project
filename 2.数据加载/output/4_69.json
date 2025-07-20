@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9073114395141602,
+        "coordinates": {
+            "points": [
+                [
+                    849.1588134765625,
+                    995.1499633789062
+                ],
+                [
+                    849.1588134765625,
+                    1213.1712646484375
+                ],
+                [
+                    1460.559326171875,
+                    1213.1712646484375
+                ],
+                [
+                    1460.559326171875,
+                    995.1499633789062
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "868f9f9e93c45dd202f175e438465a8d"
+    },
+    "page_content": "where V;’ denotes the neighboring indices of each node under relation r € R, wi are learnable parameters, o(-) is the activation function as ReLU. In this way, each graph convolution layer models the interaction between utterances, and refines the semantic features.",
+    "type": "Document"
+}

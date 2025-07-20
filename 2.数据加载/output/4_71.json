@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8343653678894043,
+        "coordinates": {
+            "points": [
+                [
+                    955.490966796875,
+                    1766.1190185546875
+                ],
+                [
+                    955.490966796875,
+                    1845.91650390625
+                ],
+                [
+                    1466.3492431640625,
+                    1845.91650390625
+                ],
+                [
+                    1466.3492431640625,
+                    1766.1190185546875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Formula",
+        "element_id": "23c82a468ba68861b1ea544d60a6b254"
+    },
+    "page_content": "(Wahi)? (We hj) ay = Va +i\" (12)",
+    "type": "Document"
+}

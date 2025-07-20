@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9425368905067444,
+        "coordinates": {
+            "points": [
+                [
+                    850.9683227539062,
+                    640.0433349609375
+                ],
+                [
+                    850.9683227539062,
+                    817.0191650390625
+                ],
+                [
+                    1468.4610595703125,
+                    817.0191650390625
+                ],
+                [
+                    1468.4610595703125,
+                    640.0433349609375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 6,
+        "parent_id": "89b2cbd1d6c34ffaa761e4253ade2c1c",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "528e995ff57ac5f9389134459e50679d"
+    },
+    "page_content": "tation ignoring the semantic relationship between utterances. Our proposed CMCF-SRNet also out- performs I-GCN which highlights the semantic cor- relation information of utterances without consid- ering multimodal fusion approach.",
+    "type": "Document"
+}

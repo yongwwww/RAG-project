@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9227400422096252,
+        "coordinates": {
+            "points": [
+                [
+                    194.11500549316406,
+                    714.5028686523438
+                ],
+                [
+                    194.11500549316406,
+                    817.8038330078125
+                ],
+                [
+                    808.2422485351562,
+                    817.8038330078125
+                ],
+                [
+                    808.2422485351562,
+                    714.5028686523438
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 5,
+        "parent_id": "5332193f65d74b2e1636ca11220e7866",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "e3b380da7771dad9b485627e7eb77921"
+    },
+    "page_content": "The output of graph transformer is fed into a MLP with fully connected layers and get the prediction values of the utterance wu; under each emotion label:",
+    "type": "Document"
+}

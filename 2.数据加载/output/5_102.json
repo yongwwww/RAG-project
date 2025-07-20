@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9347652196884155,
+        "coordinates": {
+            "points": [
+                [
+                    853.0758666992188,
+                    1970.712646484375
+                ],
+                [
+                    853.0758666992188,
+                    2146.131103515625
+                ],
+                [
+                    1464.3878173828125,
+                    2146.131103515625
+                ],
+                [
+                    1464.3878173828125,
+                    1970.712646484375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 5,
+        "parent_id": "89b2cbd1d6c34ffaa761e4253ade2c1c",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "04a2a817896e40b448738e493994483f"
+    },
+    "page_content": "BC-LSTM (Poria et al., 2017c) uses a bi- directional LSTM to encode contextual informa- tion, but ignoring the speaker-specific information. DialogueGCN (Ghosal et al., 2019) is the first to model a conversation by a graph, transforms",
+    "type": "Document"
+}

@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9356955885887146,
+        "coordinates": {
+            "points": [
+                [
+                    195.38351440429688,
+                    1481.0438232421875
+                ],
+                [
+                    195.38351440429688,
+                    1721.6893310546875
+                ],
+                [
+                    809.3615112304688,
+                    1721.6893310546875
+                ],
+                [
+                    809.3615112304688,
+                    1481.0438232421875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 10,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "9d8f14ca1f890d66b12fa604e17e421c"
+    },
+    "page_content": "Weizhou Shen, Siyue Wu, Yunyi Yang, and Xiaojun Quan. 2021. Directed acyclic graph network for conversational emotion recognition. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pages 1551-1560, Online. Association for Computational Linguistics.",
+    "type": "Document"
+}

@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8762287497520447,
+        "coordinates": {
+            "points": [
+                [
+                    290.1781921386719,
+                    1078.9150390625
+                ],
+                [
+                    290.1781921386719,
+                    1167.237060546875
+                ],
+                [
+                    802.2332153320312,
+                    1167.237060546875
+                ],
+                [
+                    802.2332153320312,
+                    1078.9150390625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 5,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Formula",
+        "element_id": "451e032a37a829577d8826be0ad4e4db"
+    },
+    "page_content": "1 N Cc L=-y— OY yi loot (18) Viet Lj n=1i=1",
+    "type": "Document"
+}

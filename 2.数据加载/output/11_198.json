@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9492985606193542,
+        "coordinates": {
+            "points": [
+                [
+                    204.53439331054688,
+                    1543.9053955078125
+                ],
+                [
+                    204.53439331054688,
+                    1732.1029052734375
+                ],
+                [
+                    1467.432373046875,
+                    1732.1029052734375
+                ],
+                [
+                    1467.432373046875,
+                    1543.9053955078125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 11,
+        "parent_id": "be8a8e73077f46d859414c0cf83b81d1",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "a1758f18e903e7e8a7ad4135351e1ee3"
+    },
+    "page_content": "B6. Did you report relevant statistics like the number of examples, details of train / test / dev splits, etc. for the data that you used / created? Even for commonly-used benchmark datasets, include the number of examples in train / validation / test splits, as these provide necessary context for a reader to understand experimental results. For example, small differences in accuracy on large test sets may be significant, while on small test sets they may not be.",
+    "type": "Document"
+}

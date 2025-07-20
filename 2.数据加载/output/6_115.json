@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.7545959949493408,
+        "coordinates": {
+            "points": [
+                [
+                    856.961181640625,
+                    1498.92138671875
+                ],
+                [
+                    856.961181640625,
+                    1782.748779296875
+                ],
+                [
+                    1455.542724609375,
+                    1782.748779296875
+                ],
+                [
+                    1455.542724609375,
+                    1498.92138671875
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 6,
+        "parent_id": "89b2cbd1d6c34ffaa761e4253ade2c1c",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Table",
+        "element_id": "63dcb79d21026461c9a99033603ec323"
+    },
+    "page_content": "Methods Year IEMOCAP(4-way) Modality | WF1(%) Bc-LSTM 2017¢ T 76.8 DialogueGCN 2019 T 81.7 CMCEF-SRNet (Ours) | 2023 T 85.6 CTNet 2021 A+T 83.6 COGMEN 2022 | A+T+V 84.5 CMCEF-SRNet (Ours) | 2023 A+T 86.5",
+    "type": "Document"
+}

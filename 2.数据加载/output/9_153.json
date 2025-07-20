@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.922118604183197,
+        "coordinates": {
+            "points": [
+                [
+                    183.5590057373047,
+                    689.4927978515625
+                ],
+                [
+                    183.5590057373047,
+                    869.3160400390625
+                ],
+                [
+                    818.9108276367188,
+                    869.3160400390625
+                ],
+                [
+                    818.9108276367188,
+                    689.4927978515625
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 9,
+        "parent_id": "ddbd08df527d8c8bf4c44035436b117e",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "0aade24ed0ff9109b54b4a94482512c3"
+    },
+    "page_content": "Carlos Busso, Murtaza Bulut, Chi-Chun Lee, Abe Kazemzadeh, Emily Mower, Samuel Kim, Jean- nette N Chang, Sungbok Lee, and Shrikanth S Narayanan. 2008. Iemocap: Interactive emotional dyadic motion capture database. Language resources and evaluation, 42(4):335-359.",
+    "type": "Document"
+}

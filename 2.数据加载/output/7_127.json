@@ -1,0 +1,41 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "coordinates": {
+            "points": [
+                [
+                    196.8237313888889,
+                    1818.7205473270833
+                ],
+                [
+                    196.8237313888889,
+                    1986.9324158333332
+                ],
+                [
+                    803.1576299013889,
+                    1986.9324158333332
+                ],
+                [
+                    803.1576299013889,
+                    1818.7205473270833
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 7,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Image",
+        "element_id": "388e5f32dff1d97b1e5ed69c4d4d34a8"
+    },
+    "page_content": "mE Concat mmm Add mmm Tensor mes Ours z IEMOCAP F1 TEMOCAP Ace MELD FL MELD Ace",
+    "type": "Document"
+}

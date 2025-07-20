@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8412714600563049,
+        "coordinates": {
+            "points": [
+                [
+                    209.66741943359375,
+                    501.9988708496094
+                ],
+                [
+                    209.66741943359375,
+                    574.0902099609375
+                ],
+                [
+                    1167.8824462890625,
+                    574.0902099609375
+                ],
+                [
+                    1167.8824462890625,
+                    501.9988708496094
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 11,
+        "parent_id": "e049b04dab9973a2eb72734c3ed57804",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "c19be0c1646fa16d330f9c172ec599f5"
+    },
+    "page_content": "W A3. Do the abstract and introduction summarize the paper’s main claims? Section I",
+    "type": "Document"
+}

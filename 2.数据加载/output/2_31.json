@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8450403213500977,
+        "coordinates": {
+            "points": [
+                [
+                    847.00390625,
+                    1986.126220703125
+                ],
+                [
+                    847.00390625,
+                    2018.21826171875
+                ],
+                [
+                    1429.840087890625,
+                    2018.21826171875
+                ],
+                [
+                    1429.840087890625,
+                    1986.126220703125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 2,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Title",
+        "element_id": "e5f30035dcea0a9cdc30108ac1368f6a"
+    },
+    "page_content": "2.1 Cross-modality Context Fusion Module",
+    "type": "Document"
+}

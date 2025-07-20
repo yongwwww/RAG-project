@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.7976837754249573,
+        "coordinates": {
+            "points": [
+                [
+                    334.3352355957031,
+                    785.24755859375
+                ],
+                [
+                    334.3352355957031,
+                    861.1710205078125
+                ],
+                [
+                    810.57275390625,
+                    861.1710205078125
+                ],
+                [
+                    810.57275390625,
+                    785.24755859375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "Formula",
+        "element_id": "3fa2dfb71de4b8170f28af8e16b13fec"
+    },
+    "page_content": "= eeriai) (8) YK exp(ay)",
+    "type": "Document"
+}

@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9078593850135803,
+        "coordinates": {
+            "points": [
+                [
+                    198.08042907714844,
+                    1782.7354736328125
+                ],
+                [
+                    198.08042907714844,
+                    2142.882080078125
+                ],
+                [
+                    816.8656616210938,
+                    2142.882080078125
+                ],
+                [
+                    816.8656616210938,
+                    1782.7354736328125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 5,
+        "parent_id": "b49c526da6722624096d0e23f84cb3ad",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "928b2f42302be040cf2d166fbb017854"
+    },
+    "page_content": "- IEMOCAP (Busso et al., 2008) dataset contains approximately 12 hours of dyadic emotional im- provised and scripted conversations (10039 ut- terances). The labelling of each utterance was determined by 3 annotators as the following cate- gorical labels: anger, happiness, sadness, neutral, excitement, frustration, fear, surprise. To com- pare with state-of-the-art frameworks, we adopt their dataset settings respectively the first four categories for the 4-way condition (Lian et al.,",
+    "type": "Document"
+}

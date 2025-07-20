@@ -1,0 +1,42 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.9199761748313904,
+        "coordinates": {
+            "points": [
+                [
+                    195.3163604736328,
+                    203.07940673828125
+                ],
+                [
+                    195.3163604736328,
+                    308.18408203125
+                ],
+                [
+                    815.13720703125,
+                    308.18408203125
+                ],
+                [
+                    815.13720703125,
+                    203.07940673828125
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 4,
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "NarrativeText",
+        "element_id": "f25e742e6418b4ca2f5bdcef456a874b"
+    },
+    "page_content": "level fusion strategy instead of a simple concatena- tion (Chen and Jin, 2016). Experimental results in Section V verify the effectiveness.",
+    "type": "Document"
+}

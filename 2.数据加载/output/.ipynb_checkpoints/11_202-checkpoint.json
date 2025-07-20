@@ -1,0 +1,43 @@
+{
+    "id": null,
+    "metadata": {
+        "source": "../datasets/2023.acl-long.732.pdf",
+        "detection_class_prob": 0.8889691233634949,
+        "coordinates": {
+            "points": [
+                [
+                    216.6842803955078,
+                    1908.4818115234375
+                ],
+                [
+                    216.6842803955078,
+                    1974.235107421875
+                ],
+                [
+                    1455.58984375,
+                    1974.235107421875
+                ],
+                [
+                    1455.58984375,
+                    1908.4818115234375
+                ]
+            ],
+            "system": "PixelSpace",
+            "layout_width": 1654,
+            "layout_height": 2339
+        },
+        "last_modified": "2025-07-10T10:14:34",
+        "filetype": "application/pdf",
+        "languages": [
+            "eng"
+        ],
+        "page_number": 11,
+        "parent_id": "41bcdbd3fa61110ff218f439a17743b5",
+        "file_directory": "../datasets",
+        "filename": "2023.acl-long.732.pdf",
+        "category": "ListItem",
+        "element_id": "3da6f4a1f81e2760bd143c5505ad69ae"
+    },
+    "page_content": "4 C1. Did you report the number of parameters in the models used, the total computational budget (e.g., GPU hours), and computing infrastructure used?",
+    "type": "Document"
+}
